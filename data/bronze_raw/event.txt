@@ -1,0 +1,815 @@
+id	eventID	parentEventID	eventDate	eventTime	samplingProtocol	sampleSizeValue	sampleSizeUnit	locationID	countryCode	locality	decimalLatitude	decimalLongitude	geodeticDatum	coordinateUncertaintyInMeters
+ZNP:Birds:2020-01-A:IT	ZNP:Birds:2020-01-A:IT	ZNP:Birds:2020-01-A	2020-01-07	09:00+0100/11:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-01-B:IT	ZNP:Birds:2020-01-B:IT	ZNP:Birds:2020-01-B	2020-01-23	09:00+0100/11:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-02-A:IT	ZNP:Birds:2020-02-A:IT	ZNP:Birds:2020-02-A	2020-02-05	09:00+0100/11:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-02-B:IT	ZNP:Birds:2020-02-B:IT	ZNP:Birds:2020-02-B	2020-02-21	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-03-A:IT	ZNP:Birds:2020-03-A:IT	ZNP:Birds:2020-03-A	2020-03-11	11:00+0100/13:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-03-B:IT	ZNP:Birds:2020-03-B:IT	ZNP:Birds:2020-03-B	2020-03-24	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-04-A:IT	ZNP:Birds:2020-04-A:IT	ZNP:Birds:2020-04-A	2020-04-08	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-04-B:IT	ZNP:Birds:2020-04-B:IT	ZNP:Birds:2020-04-B	2020-04-23	06:00+0100/08:30+0100	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-05-A:IT	ZNP:Birds:2020-05-A:IT	ZNP:Birds:2020-05-A	2020-05-06	05:00+0100/07:30+0100	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-05-B:IT	ZNP:Birds:2020-05-B:IT	ZNP:Birds:2020-05-B	2020-05-19	06:00+0100/08:30+0100	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-06-B:IT	ZNP:Birds:2020-06-B:IT	ZNP:Birds:2020-06-B	2020-06-16	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-07-A:IT	ZNP:Birds:2020-07-A:IT	ZNP:Birds:2020-07-A	2020-07-07	07:30+0100/10:00+0100	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-08-B:IT	ZNP:Birds:2020-08-B:IT	ZNP:Birds:2020-08-B	2020-08-18	06:30+0100/08:00+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-09-A:IT	ZNP:Birds:2020-09-A:IT	ZNP:Birds:2020-09-A	2020-09-08	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-09-B:IT	ZNP:Birds:2020-09-B:IT	ZNP:Birds:2020-09-B	2020-09-30	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-10-A:IT	ZNP:Birds:2020-10-A:IT	ZNP:Birds:2020-10-A	2020-10-15	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-10-B:IT	ZNP:Birds:2020-10-B:IT	ZNP:Birds:2020-10-B	2020-10-30	09:00+0100/11:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-11-B:IT	ZNP:Birds:2020-11-B:IT	ZNP:Birds:2020-11-B	2020-11-17	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-12-A:IT	ZNP:Birds:2020-12-A:IT	ZNP:Birds:2020-12-A	2020-12-08	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2020-01-A:FT	ZNP:Birds:2020-01-A:FT	ZNP:Birds:2020-01-A	2020-01-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-01-A:DT	ZNP:Birds:2020-01-A:DT	ZNP:Birds:2020-01-A	2020-01-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-01-B:FT	ZNP:Birds:2020-01-B:FT	ZNP:Birds:2020-01-B	2020-01-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-01-B:DT	ZNP:Birds:2020-01-B:DT	ZNP:Birds:2020-01-B	2020-01-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-02-A:FT	ZNP:Birds:2020-02-A:FT	ZNP:Birds:2020-02-A	2020-02-05		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-02-A:DT	ZNP:Birds:2020-02-A:DT	ZNP:Birds:2020-02-A	2020-02-05		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-03-A:FT	ZNP:Birds:2020-03-A:FT	ZNP:Birds:2020-03-A	2020-03-11		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-03-A:DT	ZNP:Birds:2020-03-A:DT	ZNP:Birds:2020-03-A	2020-03-11		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-03-B:FT	ZNP:Birds:2020-03-B:FT	ZNP:Birds:2020-03-B	2020-03-24		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-03-B:DT	ZNP:Birds:2020-03-B:DT	ZNP:Birds:2020-03-B	2020-03-24		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-04-A:FT	ZNP:Birds:2020-04-A:FT	ZNP:Birds:2020-04-A	2020-04-08		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-04-A:DT	ZNP:Birds:2020-04-A:DT	ZNP:Birds:2020-04-A	2020-04-08		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-04-B:FT	ZNP:Birds:2020-04-B:FT	ZNP:Birds:2020-04-B	2020-04-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-04-B:DT	ZNP:Birds:2020-04-B:DT	ZNP:Birds:2020-04-B	2020-04-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-05-A:FT	ZNP:Birds:2020-05-A:FT	ZNP:Birds:2020-05-A	2020-05-06		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-05-A:DT	ZNP:Birds:2020-05-A:DT	ZNP:Birds:2020-05-A	2020-05-06		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-05-B:FT	ZNP:Birds:2020-05-B:FT	ZNP:Birds:2020-05-B	2020-05-19		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-05-B:DT	ZNP:Birds:2020-05-B:DT	ZNP:Birds:2020-05-B	2020-05-19		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-06-B:FT	ZNP:Birds:2020-06-B:FT	ZNP:Birds:2020-06-B	2020-06-16		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-06-B:DT	ZNP:Birds:2020-06-B:DT	ZNP:Birds:2020-06-B	2020-06-16		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-07-A:FT	ZNP:Birds:2020-07-A:FT	ZNP:Birds:2020-07-A	2020-07-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-07-A:DT	ZNP:Birds:2020-07-A:DT	ZNP:Birds:2020-07-A	2020-07-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-08-B:FT	ZNP:Birds:2020-08-B:FT	ZNP:Birds:2020-08-B	2020-08-20		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-08-B:DT	ZNP:Birds:2020-08-B:DT	ZNP:Birds:2020-08-B	2020-08-20		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-09-A:FT	ZNP:Birds:2020-09-A:FT	ZNP:Birds:2020-09-A	2020-09-08		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-09-A:DT	ZNP:Birds:2020-09-A:DT	ZNP:Birds:2020-09-A	2020-09-08		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-09-B:FT	ZNP:Birds:2020-09-B:FT	ZNP:Birds:2020-09-B	2020-09-30		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-09-B:DT	ZNP:Birds:2020-09-B:DT	ZNP:Birds:2020-09-B	2020-09-30		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-10-B:FT	ZNP:Birds:2020-10-B:FT	ZNP:Birds:2020-10-B	2020-10-30		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-10-B:DT	ZNP:Birds:2020-10-B:DT	ZNP:Birds:2020-10-B	2020-10-30		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-11-B:FT	ZNP:Birds:2020-11-B:FT	ZNP:Birds:2020-11-B	2020-11-17		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-11-B:DT	ZNP:Birds:2020-11-B:DT	ZNP:Birds:2020-11-B	2020-11-17		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-12-A:FT	ZNP:Birds:2020-12-A:FT	ZNP:Birds:2020-12-A	2020-12-08		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2020-12-A:DT	ZNP:Birds:2020-12-A:DT	ZNP:Birds:2020-12-A	2020-12-08		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2020-01-A:FTP	ZNP:Birds:2020-01-A:FTP	ZNP:Birds:2020-01-A	2020-01-07	09:30+0100/09:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-01-A:DTP	ZNP:Birds:2020-01-A:DTP	ZNP:Birds:2020-01-A	2020-01-07	10:20+0100/10:25+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-01-B:FTP	ZNP:Birds:2020-01-B:FTP	ZNP:Birds:2020-01-B	2020-01-23	10:00+0100/10:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-01-B:DTP	ZNP:Birds:2020-01-B:DTP	ZNP:Birds:2020-01-B	2020-01-23	10:50+0100/10:55+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-02-A:FTP	ZNP:Birds:2020-02-A:FTP	ZNP:Birds:2020-02-A	2020-02-05	09:40+0100/09:45+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-02-A:DTP	ZNP:Birds:2020-02-A:DTP	ZNP:Birds:2020-02-A	2020-02-05	10:35+0100/10:40+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-03-A:FTP	ZNP:Birds:2020-03-A:FTP	ZNP:Birds:2020-03-A	2020-03-11	11:45+0100/11:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-03-A:DTP	ZNP:Birds:2020-03-A:DTP	ZNP:Birds:2020-03-A	2020-03-11	12:25+0100/12:30+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-03-B:FTP	ZNP:Birds:2020-03-B:FTP	ZNP:Birds:2020-03-B	2020-03-24	08:05+0100/08:10+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-03-B:DTP	ZNP:Birds:2020-03-B:DTP	ZNP:Birds:2020-03-B	2020-03-24	09:30+0100/09:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-04-A:FTP	ZNP:Birds:2020-04-A:FTP	ZNP:Birds:2020-04-A	2020-04-08	08:00+0100/08:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-04-A:DTP	ZNP:Birds:2020-04-A:DTP	ZNP:Birds:2020-04-A	2020-04-08	09:00+0100/09:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-04-B:FTP	ZNP:Birds:2020-04-B:FTP	ZNP:Birds:2020-04-B	2020-04-23	06:45+0100/06:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-04-B:DTP	ZNP:Birds:2020-04-B:DTP	ZNP:Birds:2020-04-B	2020-04-23	07:35+0100/07:40+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-05-A:FTP	ZNP:Birds:2020-05-A:FTP	ZNP:Birds:2020-05-A	2020-05-06	06:35+0100/06:40+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-05-A:DTP	ZNP:Birds:2020-05-A:DTP	ZNP:Birds:2020-05-A	2020-05-06	07:30+0100/07:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-05-B:FTP	ZNP:Birds:2020-05-B:FTP	ZNP:Birds:2020-05-B	2020-05-19	07:25+0100/07:30+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-05-B:DTP	ZNP:Birds:2020-05-B:DTP	ZNP:Birds:2020-05-B	2020-05-19	08:40+0100/08:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-06-B:FTP	ZNP:Birds:2020-06-B:FTP	ZNP:Birds:2020-06-B	2020-06-16	07:00+0100/07:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-06-B:DTP	ZNP:Birds:2020-06-B:DTP	ZNP:Birds:2020-06-B	2020-06-16	07:40+0100/07:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-07-A:FTP	ZNP:Birds:2020-07-A:FTP	ZNP:Birds:2020-07-A	2020-07-07	08:30+0100/08:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-07-A:DTP	ZNP:Birds:2020-07-A:DTP	ZNP:Birds:2020-07-A	2020-07-07	09:30+0100/09:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-08-B:FTP	ZNP:Birds:2020-08-B:FTP	ZNP:Birds:2020-08-B	2020-08-20	06:45+0100/06:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-08-B:DTP	ZNP:Birds:2020-08-B:DTP	ZNP:Birds:2020-08-B	2020-08-20	07:15+0100/07:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-09-A:FTP	ZNP:Birds:2020-09-A:FTP	ZNP:Birds:2020-09-A	2020-09-08	07:00+0100/07:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-09-A:DTP	ZNP:Birds:2020-09-A:DTP	ZNP:Birds:2020-09-A	2020-09-08	07:45+0100/07:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-09-B:FTP	ZNP:Birds:2020-09-B:FTP	ZNP:Birds:2020-09-B	2020-09-30	08:15+0100/08:20+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-09-B:DTP	ZNP:Birds:2020-09-B:DTP	ZNP:Birds:2020-09-B	2020-09-30	09:15+0100/09:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-10-B:FTP	ZNP:Birds:2020-10-B:FTP	ZNP:Birds:2020-10-B	2020-10-30	10:15+0100/10:20+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-10-B:DTP	ZNP:Birds:2020-10-B:DTP	ZNP:Birds:2020-10-B	2020-10-30	11:00+0100/11:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-11-B:FTP	ZNP:Birds:2020-11-B:FTP	ZNP:Birds:2020-11-B	2020-11-17	09:05+0100/09:10+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-11-B:DTP	ZNP:Birds:2020-11-B:DTP	ZNP:Birds:2020-11-B	2020-11-17	10:00+0100/10:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2020-12-A:FTP	ZNP:Birds:2020-12-A:FTP	ZNP:Birds:2020-12-A	2020-12-08	08:45+0100/08:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2020-12-A:DTP	ZNP:Birds:2020-12-A:DTP	ZNP:Birds:2020-12-A	2020-12-08	10:00+0100/10:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-01-A:IT	ZNP:Birds:2021-01-A:IT	ZNP:Birds:2021-01-A	2021-01-06	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-01-B:IT	ZNP:Birds:2021-01-B:IT	ZNP:Birds:2021-01-B	2021-01-25	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-02-A:IT	ZNP:Birds:2021-02-A:IT	ZNP:Birds:2021-02-A	2021-02-10	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-02-B:IT	ZNP:Birds:2021-02-B:IT	ZNP:Birds:2021-02-B	2021-02-23	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-03-B:IT	ZNP:Birds:2021-03-B:IT	ZNP:Birds:2021-03-B	2021-03-23	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-04-B:IT	ZNP:Birds:2021-04-B:IT	ZNP:Birds:2021-04-B	2021-04-20	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-05-A:IT	ZNP:Birds:2021-05-A:IT	ZNP:Birds:2021-05-A	2021-05-03	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-05-B:IT	ZNP:Birds:2021-05-B:IT	ZNP:Birds:2021-05-B	2021-05-20	06:00+0100/08:30+0100	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-06-A:IT	ZNP:Birds:2021-06-A:IT	ZNP:Birds:2021-06-A	2021-06-02	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-06-B:IT	ZNP:Birds:2021-06-B:IT	ZNP:Birds:2021-06-B	2021-06-16	06:00+0100/08:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-07-A:IT	ZNP:Birds:2021-07-A:IT	ZNP:Birds:2021-07-A	2021-07-02	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-07-B:IT	ZNP:Birds:2021-07-B:IT	ZNP:Birds:2021-07-B	2021-07-19	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-08-B:IT	ZNP:Birds:2021-08-B:IT	ZNP:Birds:2021-08-B	2021-08-17	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-09-A:IT	ZNP:Birds:2021-09-A:IT	ZNP:Birds:2021-09-A	2021-09-01	06:30+0100/08:00+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-09-B:IT	ZNP:Birds:2021-09-B:IT	ZNP:Birds:2021-09-B	2021-09-16	06:45+0100/08:45+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-10-A:IT	ZNP:Birds:2021-10-A:IT	ZNP:Birds:2021-10-A	2021-10-08	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-10-B:IT	ZNP:Birds:2021-10-B:IT	ZNP:Birds:2021-10-B	2021-10-26	07:30+0100/10:30+0100	Transect count	180	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-11-A:IT	ZNP:Birds:2021-11-A:IT	ZNP:Birds:2021-11-A	2021-11-09	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-11-B:IT	ZNP:Birds:2021-11-B:IT	ZNP:Birds:2021-11-B	2021-11-23	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-12-A:IT	ZNP:Birds:2021-12-A:IT	ZNP:Birds:2021-12-A	2021-12-06	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-12-B:IT	ZNP:Birds:2021-12-B:IT	ZNP:Birds:2021-12-B	2021-12-23	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2021-01-A:FT	ZNP:Birds:2021-01-A:FT	ZNP:Birds:2021-01-A	2021-01-06		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-01-A:DT	ZNP:Birds:2021-01-A:DT	ZNP:Birds:2021-01-A	2021-01-06		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-01-B:FT	ZNP:Birds:2021-01-B:FT	ZNP:Birds:2021-01-B	2021-01-25		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-01-B:DT	ZNP:Birds:2021-01-B:DT	ZNP:Birds:2021-01-B	2021-01-25		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-02-A:FT	ZNP:Birds:2021-02-A:FT	ZNP:Birds:2021-02-A	2021-02-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-02-A:DT	ZNP:Birds:2021-02-A:DT	ZNP:Birds:2021-02-A	2021-02-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-02-B:FT	ZNP:Birds:2021-02-B:FT	ZNP:Birds:2021-02-B	2021-02-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-02-B:DT	ZNP:Birds:2021-02-B:DT	ZNP:Birds:2021-02-B	2021-02-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-03-B:FT	ZNP:Birds:2021-03-B:FT	ZNP:Birds:2021-03-B	2021-03-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-03-B:DT	ZNP:Birds:2021-03-B:DT	ZNP:Birds:2021-03-B	2021-03-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-04-B:FT	ZNP:Birds:2021-04-B:FT	ZNP:Birds:2021-04-B	2021-04-20		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-04-B:DT	ZNP:Birds:2021-04-B:DT	ZNP:Birds:2021-04-B	2021-04-20		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-05-A:FT	ZNP:Birds:2021-05-A:FT	ZNP:Birds:2021-05-A	2021-05-03		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-05-A:DT	ZNP:Birds:2021-05-A:DT	ZNP:Birds:2021-05-A	2021-05-03		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-05-B:FT	ZNP:Birds:2021-05-B:FT	ZNP:Birds:2021-05-B	2021-05-20		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-05-B:DT	ZNP:Birds:2021-05-B:DT	ZNP:Birds:2021-05-B	2021-05-20		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-06-A:FT	ZNP:Birds:2021-06-A:FT	ZNP:Birds:2021-06-A	2021-06-02		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-06-A:DT	ZNP:Birds:2021-06-A:DT	ZNP:Birds:2021-06-A	2021-06-02		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-06-B:FT	ZNP:Birds:2021-06-B:FT	ZNP:Birds:2021-06-B	2021-06-16		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-06-B:DT	ZNP:Birds:2021-06-B:DT	ZNP:Birds:2021-06-B	2021-06-16		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-07-A:FT	ZNP:Birds:2021-07-A:FT	ZNP:Birds:2021-07-A	2021-07-02		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-07-A:DT	ZNP:Birds:2021-07-A:DT	ZNP:Birds:2021-07-A	2021-07-02		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-07-B:FT	ZNP:Birds:2021-07-B:FT	ZNP:Birds:2021-07-B	2021-07-19		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-07-B:DT	ZNP:Birds:2021-07-B:DT	ZNP:Birds:2021-07-B	2021-07-19		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-08-B:FT	ZNP:Birds:2021-08-B:FT	ZNP:Birds:2021-08-B	2021-08-17		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-08-B:DT	ZNP:Birds:2021-08-B:DT	ZNP:Birds:2021-08-B	2021-08-17		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-09-A:FT	ZNP:Birds:2021-09-A:FT	ZNP:Birds:2021-09-A	2021-09-01		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-09-A:DT	ZNP:Birds:2021-09-A:DT	ZNP:Birds:2021-09-A	2021-09-01		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-09-B:FT	ZNP:Birds:2021-09-B:FT	ZNP:Birds:2021-09-B	2021-09-16		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-09-B:DT	ZNP:Birds:2021-09-B:DT	ZNP:Birds:2021-09-B	2021-09-16		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-10-A:FT	ZNP:Birds:2021-10-A:FT	ZNP:Birds:2021-10-A	2021-10-08		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-10-A:DT	ZNP:Birds:2021-10-A:DT	ZNP:Birds:2021-10-A	2021-10-08		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-10-B:FT	ZNP:Birds:2021-10-B:FT	ZNP:Birds:2021-10-B	2021-10-26		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-10-B:DT	ZNP:Birds:2021-10-B:DT	ZNP:Birds:2021-10-B	2021-10-26		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-11-A:FT	ZNP:Birds:2021-11-A:FT	ZNP:Birds:2021-11-A	2021-11-09		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-11-A:DT	ZNP:Birds:2021-11-A:DT	ZNP:Birds:2021-11-A	2021-11-09		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-11-B:FT	ZNP:Birds:2021-11-B:FT	ZNP:Birds:2021-11-B	2021-11-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-11-B:DT	ZNP:Birds:2021-11-B:DT	ZNP:Birds:2021-11-B	2021-11-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-12-A:FT	ZNP:Birds:2021-12-A:FT	ZNP:Birds:2021-12-A	2021-12-06		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-12-A:DT	ZNP:Birds:2021-12-A:DT	ZNP:Birds:2021-12-A	2021-12-06		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-12-B:FT	ZNP:Birds:2021-12-B:FT	ZNP:Birds:2021-12-B	2021-12-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2021-12-B:DT	ZNP:Birds:2021-12-B:DT	ZNP:Birds:2021-12-B	2021-12-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2021-01-A:FTP	ZNP:Birds:2021-01-A:FTP	ZNP:Birds:2021-01-A	2021-01-06	09:05+0100/09:10+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-01-A:DTP	ZNP:Birds:2021-01-A:DTP	ZNP:Birds:2021-01-A	2021-01-06	10:00+0100/10:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-01-B:FTP	ZNP:Birds:2021-01-B:FTP	ZNP:Birds:2021-01-B	2021-01-25	08:20+0100/08:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-01-B:DTP	ZNP:Birds:2021-01-B:DTP	ZNP:Birds:2021-01-B	2021-01-25	08:50+0100/08:55+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-02-A:FTP	ZNP:Birds:2021-02-A:FTP	ZNP:Birds:2021-02-A	2021-02-10	08:50+0100/08:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-02-A:DTP	ZNP:Birds:2021-02-A:DTP	ZNP:Birds:2021-02-A	2021-02-10	10:00+0100/10:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-02-B:FTP	ZNP:Birds:2021-02-B:FTP	ZNP:Birds:2021-02-B	2021-02-23	08:00+0100/08:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-02-B:DTP	ZNP:Birds:2021-02-B:DTP	ZNP:Birds:2021-02-B	2021-02-23	08:45+0100/08:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-04-B:FTP	ZNP:Birds:2021-04-B:FTP	ZNP:Birds:2021-04-B	2021-04-20	08:00+0100/08:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-04-B:DTP	ZNP:Birds:2021-04-B:DTP	ZNP:Birds:2021-04-B	2021-04-20	09:15+0100/09:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-05-A:FTP	ZNP:Birds:2021-05-A:FTP	ZNP:Birds:2021-05-A	2021-05-03	07:40+0100/07:45+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-05-A:DTP	ZNP:Birds:2021-05-A:DTP	ZNP:Birds:2021-05-A	2021-05-03	08:40+0100/08:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-05-B:FTP	ZNP:Birds:2021-05-B:FTP	ZNP:Birds:2021-05-B	2021-05-20	06:40+0100/06:45+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-05-B:DTP	ZNP:Birds:2021-05-B:DTP	ZNP:Birds:2021-05-B	2021-05-20	07:40+0100/07:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-06-A:FTP	ZNP:Birds:2021-06-A:FTP	ZNP:Birds:2021-06-A	2021-06-02	07:20+0100/07:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-06-A:DTP	ZNP:Birds:2021-06-A:DTP	ZNP:Birds:2021-06-A	2021-06-02	08:50+0100/08:55+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-06-B:FTP	ZNP:Birds:2021-06-B:FTP	ZNP:Birds:2021-06-B	2021-06-16	06:30+0100/06:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-06-B:DTP	ZNP:Birds:2021-06-B:DTP	ZNP:Birds:2021-06-B	2021-06-16	07:00+0100/07:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-07-A:FTP	ZNP:Birds:2021-07-A:FTP	ZNP:Birds:2021-07-A	2021-07-02	07:20+0100/07:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-07-A:DTP	ZNP:Birds:2021-07-A:DTP	ZNP:Birds:2021-07-A	2021-07-02	08:10+0100/08:15+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-07-B:FTP	ZNP:Birds:2021-07-B:FTP	ZNP:Birds:2021-07-B	2021-07-19	07:15+0100/07:20+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-07-B:DTP	ZNP:Birds:2021-07-B:DTP	ZNP:Birds:2021-07-B	2021-07-19	08:00+0100/08:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-08-B:FTP	ZNP:Birds:2021-08-B:FTP	ZNP:Birds:2021-08-B	2021-08-17	06:50+0100/06:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-08-B:DTP	ZNP:Birds:2021-08-B:DTP	ZNP:Birds:2021-08-B	2021-08-17	07:25+0100/07:30+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-09-A:FTP	ZNP:Birds:2021-09-A:FTP	ZNP:Birds:2021-09-A	2021-09-01	06:50+0100/06:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-09-A:DTP	ZNP:Birds:2021-09-A:DTP	ZNP:Birds:2021-09-A	2021-09-01	07:30+0100/07:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-09-B:FTP	ZNP:Birds:2021-09-B:FTP	ZNP:Birds:2021-09-B	2021-09-16	07:05+0100/07:10+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-09-B:DTP	ZNP:Birds:2021-09-B:DTP	ZNP:Birds:2021-09-B	2021-09-16	08:00+0100/08:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-10-A:FTP	ZNP:Birds:2021-10-A:FTP	ZNP:Birds:2021-10-A	2021-10-08	07:35+0100/07:40+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-10-A:DTP	ZNP:Birds:2021-10-A:DTP	ZNP:Birds:2021-10-A	2021-10-08	08:05+0100/08:10+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-10-B:FTP	ZNP:Birds:2021-10-B:FTP	ZNP:Birds:2021-10-B	2021-10-26	08:10+0100/08:15+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-10-B:DTP	ZNP:Birds:2021-10-B:DTP	ZNP:Birds:2021-10-B	2021-10-26	09:15+0100/09:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-11-A:FTP	ZNP:Birds:2021-11-A:FTP	ZNP:Birds:2021-11-A	2021-11-09	08:45+0100/08:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-11-A:DTP	ZNP:Birds:2021-11-A:DTP	ZNP:Birds:2021-11-A	2021-11-09	09:40+0100/09:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-11-B:FTP	ZNP:Birds:2021-11-B:FTP	ZNP:Birds:2021-11-B	2021-11-23	08:20+0100/08:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-11-B:DTP	ZNP:Birds:2021-11-B:DTP	ZNP:Birds:2021-11-B	2021-11-23	14:40+0100/14:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-12-A:FTP	ZNP:Birds:2021-12-A:FTP	ZNP:Birds:2021-12-A	2021-12-06	08:45+0100/08:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-12-A:DTP	ZNP:Birds:2021-12-A:DTP	ZNP:Birds:2021-12-A	2021-12-06	10:00+0100/10:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2021-12-B:FTP	ZNP:Birds:2021-12-B:FTP	ZNP:Birds:2021-12-B	2021-12-23	08:45+0100/08:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2021-12-B:DTP	ZNP:Birds:2021-12-B:DTP	ZNP:Birds:2021-12-B	2021-12-23	09:40+0100/09:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-04-A:IT	ZNP:Birds:2018-04-A:IT	ZNP:Birds:2018-04-A	2018-04-10	07:50+0200/09:00+0200	Transect count	70	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-04-A:FTP	ZNP:Birds:2018-04-A:FTP	ZNP:Birds:2018-04-A	2018-04-10	08:17+0200/08:22+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-04-A:DTP	ZNP:Birds:2018-04-A:DTP	ZNP:Birds:2018-04-A	2018-04-10	08:52+0200/08:57+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-05-A:IT	ZNP:Birds:2018-05-A:IT	ZNP:Birds:2018-05-A	2018-05-08	07:30+0200/08:30+0200	Transect count	60	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-05-A:FTP	ZNP:Birds:2018-05-A:FTP	ZNP:Birds:2018-05-A	2018-05-08	07:44+0200/07:49+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-05-A:DTP	ZNP:Birds:2018-05-A:DTP	ZNP:Birds:2018-05-A	2018-05-08	08:09+0200/08:14+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-05-B:IT	ZNP:Birds:2018-05-B:IT	ZNP:Birds:2018-05-B	2018-05-23	08:30+0200/09:30+0200	Transect count	60	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-05-B:FTP	ZNP:Birds:2018-05-B:FTP	ZNP:Birds:2018-05-B	2018-05-23	08:59+0200/09:04+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-05-B:DTP	ZNP:Birds:2018-05-B:DTP	ZNP:Birds:2018-05-B	2018-05-23	09:35+0200/09:40+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-06-A:IT	ZNP:Birds:2018-06-A:IT	ZNP:Birds:2018-06-A	2018-06-13	08:00+0200/09:30+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-06-A:FT	ZNP:Birds:2018-06-A:FT	ZNP:Birds:2018-06-A	2018-06-13		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-06-A:DT	ZNP:Birds:2018-06-A:DT	ZNP:Birds:2018-06-A	2018-06-13		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-06-A:FTP	ZNP:Birds:2018-06-A:FTP	ZNP:Birds:2018-06-A	2018-06-13	08:44+0200/08:49+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-06-A:DTP	ZNP:Birds:2018-06-A:DTP	ZNP:Birds:2018-06-A	2018-06-13	09:14+0200/09:19+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-06-B:IT	ZNP:Birds:2018-06-B:IT	ZNP:Birds:2018-06-B	2018-06-28	08:00+0200/09:30+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-06-B:FT	ZNP:Birds:2018-06-B:FT	ZNP:Birds:2018-06-B	2018-06-28		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-06-B:DT	ZNP:Birds:2018-06-B:DT	ZNP:Birds:2018-06-B	2018-06-28		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-06-B:FTP	ZNP:Birds:2018-06-B:FTP	ZNP:Birds:2018-06-B	2018-06-28	08:27+0200/08:32+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-06-B:DTP	ZNP:Birds:2018-06-B:DTP	ZNP:Birds:2018-06-B	2018-06-28	09:00+0200/09:05+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-07-A:IT	ZNP:Birds:2018-07-A:IT	ZNP:Birds:2018-07-A	2018-07-12	08:30+0200/10:00+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-07-A:FT	ZNP:Birds:2018-07-A:FT	ZNP:Birds:2018-07-A	2018-07-12		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-07-A:DT	ZNP:Birds:2018-07-A:DT	ZNP:Birds:2018-07-A	2018-07-12		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-07-A:FTP	ZNP:Birds:2018-07-A:FTP	ZNP:Birds:2018-07-A	2018-07-12	09:00+0200/09:05+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-07-A:DTP	ZNP:Birds:2018-07-A:DTP	ZNP:Birds:2018-07-A	2018-07-12	09:50+0200/09:55+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-07-B:IT	ZNP:Birds:2018-07-B:IT	ZNP:Birds:2018-07-B	2018-07-26	08:00+0200/09:30+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-07-B:FT	ZNP:Birds:2018-07-B:FT	ZNP:Birds:2018-07-B	2018-07-26		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-07-B:DT	ZNP:Birds:2018-07-B:DT	ZNP:Birds:2018-07-B	2018-07-26		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-07-B:FTP	ZNP:Birds:2018-07-B:FTP	ZNP:Birds:2018-07-B	2018-07-26	08:15+0200/08:20+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-07-B:DTP	ZNP:Birds:2018-07-B:DTP	ZNP:Birds:2018-07-B	2018-07-26	08:46+0200/08:51+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-08-B:IT	ZNP:Birds:2018-08-B:IT	ZNP:Birds:2018-08-B	2018-08-21	08:00+0200/09:30+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-08-B:FT	ZNP:Birds:2018-08-B:FT	ZNP:Birds:2018-08-B	2018-08-21		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-08-B:DT	ZNP:Birds:2018-08-B:DT	ZNP:Birds:2018-08-B	2018-08-21		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-08-B:FTP	ZNP:Birds:2018-08-B:FTP	ZNP:Birds:2018-08-B	2018-08-21	08:23+0200/08:28+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-08-B:DTP	ZNP:Birds:2018-08-B:DTP	ZNP:Birds:2018-08-B	2018-08-21	08:58+0200/09:03+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-09-A:IT	ZNP:Birds:2018-09-A:IT	ZNP:Birds:2018-09-A	2018-09-05	08:00+0200/09:30+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-09-A:FT	ZNP:Birds:2018-09-A:FT	ZNP:Birds:2018-09-A	2018-09-05		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-09-A:DT	ZNP:Birds:2018-09-A:DT	ZNP:Birds:2018-09-A	2018-09-05		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-09-A:FTP	ZNP:Birds:2018-09-A:FTP	ZNP:Birds:2018-09-A	2018-09-05	08:31+0200/08:36+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-09-A:DTP	ZNP:Birds:2018-09-A:DTP	ZNP:Birds:2018-09-A	2018-09-05	09:10+0200/09:15+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-09-B:IT	ZNP:Birds:2018-09-B:IT	ZNP:Birds:2018-09-B	2018-09-26	10:00+0200/11:30+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-09-B:FT	ZNP:Birds:2018-09-B:FT	ZNP:Birds:2018-09-B	2018-09-26		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-09-B:DT	ZNP:Birds:2018-09-B:DT	ZNP:Birds:2018-09-B	2018-09-26		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-09-B:FTP	ZNP:Birds:2018-09-B:FTP	ZNP:Birds:2018-09-B	2018-09-26	10:16+0200/10:21+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-09-B:DTP	ZNP:Birds:2018-09-B:DTP	ZNP:Birds:2018-09-B	2018-09-26	10:50+0200/10:55+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-10-A:IT	ZNP:Birds:2018-10-A:IT	ZNP:Birds:2018-10-A	2018-10-10	08:00+0200/10:00+0200	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-10-A:FT	ZNP:Birds:2018-10-A:FT	ZNP:Birds:2018-10-A	2018-10-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-10-A:DT	ZNP:Birds:2018-10-A:DT	ZNP:Birds:2018-10-A	2018-10-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-10-A:FTP	ZNP:Birds:2018-10-A:FTP	ZNP:Birds:2018-10-A	2018-10-10	08:44+0200/08:49+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-10-A:DTP	ZNP:Birds:2018-10-A:DTP	ZNP:Birds:2018-10-A	2018-10-10	09:45+0200/09:50+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-10-B:IT	ZNP:Birds:2018-10-B:IT	ZNP:Birds:2018-10-B	2018-10-23	09:30+0200/11:00+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-10-B:FT	ZNP:Birds:2018-10-B:FT	ZNP:Birds:2018-10-B	2018-10-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-10-B:DT	ZNP:Birds:2018-10-B:DT	ZNP:Birds:2018-10-B	2018-10-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-10-B:FTP	ZNP:Birds:2018-10-B:FTP	ZNP:Birds:2018-10-B	2018-10-23	09:51+0200/09:56+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-10-B:DTP	ZNP:Birds:2018-10-B:DTP	ZNP:Birds:2018-10-B	2018-10-23	10:34+0200/10:39+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-11-A:IT	ZNP:Birds:2018-11-A:IT	ZNP:Birds:2018-11-A	2018-11-08	10:00+0100/11:30+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-11-A:FT	ZNP:Birds:2018-11-A:FT	ZNP:Birds:2018-11-A	2018-11-08		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-11-A:DT	ZNP:Birds:2018-11-A:DT	ZNP:Birds:2018-11-A	2018-11-08		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-11-A:FTP	ZNP:Birds:2018-11-A:FTP	ZNP:Birds:2018-11-A	2018-11-08	10:34+0100/10:39+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-11-A:DTP	ZNP:Birds:2018-11-A:DTP	ZNP:Birds:2018-11-A	2018-11-08	11:25+0100/11:30+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-12-A:IT	ZNP:Birds:2018-12-A:IT	ZNP:Birds:2018-12-A	2018-12-05	10:00+0100/11:30+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-12-A:FT	ZNP:Birds:2018-12-A:FT	ZNP:Birds:2018-12-A	2018-12-05		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-12-A:DT	ZNP:Birds:2018-12-A:DT	ZNP:Birds:2018-12-A	2018-12-05		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-12-A:FTP	ZNP:Birds:2018-12-A:FTP	ZNP:Birds:2018-12-A	2018-12-05	10:38+0100/10:43+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-12-A:DTP	ZNP:Birds:2018-12-A:DTP	ZNP:Birds:2018-12-A	2018-12-05	11:21+0100/11:26+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2018-12-B:IT	ZNP:Birds:2018-12-B:IT	ZNP:Birds:2018-12-B	2018-12-24	09:00+0100/10:30+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2018-12-B:FT	ZNP:Birds:2018-12-B:FT	ZNP:Birds:2018-12-B	2018-12-24		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2018-12-B:DT	ZNP:Birds:2018-12-B:DT	ZNP:Birds:2018-12-B	2018-12-24		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2018-12-B:FTP	ZNP:Birds:2018-12-B:FTP	ZNP:Birds:2018-12-B	2018-12-24	09:50+0100/09:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2018-12-B:DTP	ZNP:Birds:2018-12-B:DTP	ZNP:Birds:2018-12-B	2018-12-24		Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-01-A:IT	ZNP:Birds:2019-01-A:IT	ZNP:Birds:2019-01-A	2019-01-07	10:30+0100/12:00+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-01-A:FT	ZNP:Birds:2019-01-A:FT	ZNP:Birds:2019-01-A	2019-01-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-01-A:DT	ZNP:Birds:2019-01-A:DT	ZNP:Birds:2019-01-A	2019-01-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-01-A:FTP	ZNP:Birds:2019-01-A:FTP	ZNP:Birds:2019-01-A	2019-01-07	10:59+0100/11:04+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-01-A:DTP	ZNP:Birds:2019-01-A:DTP	ZNP:Birds:2019-01-A	2019-01-07	11:50+0100/11:55+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-01-B:IT	ZNP:Birds:2019-01-B:IT	ZNP:Birds:2019-01-B	2019-01-31	09:30+0100/11:00+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-01-B:FT	ZNP:Birds:2019-01-B:FT	ZNP:Birds:2019-01-B	2019-01-31		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-01-B:DT	ZNP:Birds:2019-01-B:DT	ZNP:Birds:2019-01-B	2019-01-31		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-01-B:FTP	ZNP:Birds:2019-01-B:FTP	ZNP:Birds:2019-01-B	2019-01-31	09:58+0100/10:03+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-01-B:DTP	ZNP:Birds:2019-01-B:DTP	ZNP:Birds:2019-01-B	2019-01-31	10:30+0100/10:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-02-A:IT	ZNP:Birds:2019-02-A:IT	ZNP:Birds:2019-02-A	2019-02-12	09:30+0100/11:00+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-02-A:FT	ZNP:Birds:2019-02-A:FT	ZNP:Birds:2019-02-A	2019-02-12		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-02-A:DT	ZNP:Birds:2019-02-A:DT	ZNP:Birds:2019-02-A	2019-02-12		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-02-B:FT	ZNP:Birds:2019-02-B:FT	ZNP:Birds:2019-02-B	2019-02-12		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-02-B:DT	ZNP:Birds:2019-02-B:DT	ZNP:Birds:2019-02-B	2019-02-12		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-02-A:FTP	ZNP:Birds:2019-02-A:FTP	ZNP:Birds:2019-02-A	2019-02-12	10:00+0100/10:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-02-A:DTP	ZNP:Birds:2019-02-A:DTP	ZNP:Birds:2019-02-A	2019-02-12	10:44+0100/10:49+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-02-B:IT	ZNP:Birds:2019-02-B:IT	ZNP:Birds:2019-02-B	2019-02-26	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-02-B:FTP	ZNP:Birds:2019-02-B:FTP	ZNP:Birds:2019-02-B	2019-02-26	09:04+0100/09:09+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-02-B:DTP	ZNP:Birds:2019-02-B:DTP	ZNP:Birds:2019-02-B	2019-02-26	09:56+0100/10:01+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-03-B:IT	ZNP:Birds:2019-03-B:IT	ZNP:Birds:2019-03-B	2019-03-22	08:00+0100/09:30+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-03-B:FT	ZNP:Birds:2019-03-B:FT	ZNP:Birds:2019-03-B	2019-03-22		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-03-B:DT	ZNP:Birds:2019-03-B:DT	ZNP:Birds:2019-03-B	2019-03-22		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-03-B:FTP	ZNP:Birds:2019-03-B:FTP	ZNP:Birds:2019-03-B	2019-03-22	08:42+0100/08:47+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-03-B:DTP	ZNP:Birds:2019-03-B:DTP	ZNP:Birds:2019-03-B	2019-03-22	09:24+0100/09:29+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-04-A:IT	ZNP:Birds:2019-04-A:IT	ZNP:Birds:2019-04-A	2019-04-05	07:30+0200/09:30+0200	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-04-A:FT	ZNP:Birds:2019-04-A:FT	ZNP:Birds:2019-04-A	2019-04-05		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-04-A:DT	ZNP:Birds:2019-04-A:DT	ZNP:Birds:2019-04-A	2019-04-05		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-04-A:FTP	ZNP:Birds:2019-04-A:FTP	ZNP:Birds:2019-04-A	2019-04-05	08:38+0200/08:43+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-04-A:DTP	ZNP:Birds:2019-04-A:DTP	ZNP:Birds:2019-04-A	2019-04-05	09:37+0200/09:42+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-04-B:IT	ZNP:Birds:2019-04-B:IT	ZNP:Birds:2019-04-B	2019-04-24	08:00+0200/10:30+0200	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-04-B:FT	ZNP:Birds:2019-04-B:FT	ZNP:Birds:2019-04-B	2019-04-24		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-04-B:DT	ZNP:Birds:2019-04-B:DT	ZNP:Birds:2019-04-B	2019-04-24		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-04-B:FTP	ZNP:Birds:2019-04-B:FTP	ZNP:Birds:2019-04-B	2019-04-24	08:50+0200/08:55+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-04-B:DTP	ZNP:Birds:2019-04-B:DTP	ZNP:Birds:2019-04-B	2019-04-24	09:50+0200/09:55+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-05-A:IT	ZNP:Birds:2019-05-A:IT	ZNP:Birds:2019-05-A	2019-05-15	09:00+0200/11:30+0200	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-05-A:FT	ZNP:Birds:2019-05-A:FT	ZNP:Birds:2019-05-A	2019-05-15		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-05-A:DT	ZNP:Birds:2019-05-A:DT	ZNP:Birds:2019-05-A	2019-05-15		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-05-A:FTP	ZNP:Birds:2019-05-A:FTP	ZNP:Birds:2019-05-A	2019-05-15	10:15+0200/10:20+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-05-A:DTP	ZNP:Birds:2019-05-A:DTP	ZNP:Birds:2019-05-A	2019-05-15	11:10+0200/11:15+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-05-B:IT	ZNP:Birds:2019-05-B:IT	ZNP:Birds:2019-05-B	2019-05-29	08:00+0200/10:30+0200	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-05-B:FT	ZNP:Birds:2019-05-B:FT	ZNP:Birds:2019-05-B	2019-05-29		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-05-B:DT	ZNP:Birds:2019-05-B:DT	ZNP:Birds:2019-05-B	2019-05-29		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-05-B:FTP	ZNP:Birds:2019-05-B:FTP	ZNP:Birds:2019-05-B	2019-05-29	09:00+0200/09:05+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-05-B:DTP	ZNP:Birds:2019-05-B:DTP	ZNP:Birds:2019-05-B	2019-05-29	09:50+0200/09:55+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-06-B:IT	ZNP:Birds:2019-06-B:IT	ZNP:Birds:2019-06-B	2019-06-20	07:30+0200/09:00+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-06-B:FT	ZNP:Birds:2019-06-B:FT	ZNP:Birds:2019-06-B	2019-06-20		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-06-B:DT	ZNP:Birds:2019-06-B:DT	ZNP:Birds:2019-06-B	2019-06-20		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-06-B:FTP	ZNP:Birds:2019-06-B:FTP	ZNP:Birds:2019-06-B	2019-06-20	07:35+0200/07:40+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-06-B:DTP	ZNP:Birds:2019-06-B:DTP	ZNP:Birds:2019-06-B	2019-06-20	08:25+0200/08:30+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-07-A:IT	ZNP:Birds:2019-07-A:IT	ZNP:Birds:2019-07-A	2019-07-04	08:00+0200/10:00+0200	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-07-A:FT	ZNP:Birds:2019-07-A:FT	ZNP:Birds:2019-07-A	2019-07-04		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-07-A:DT	ZNP:Birds:2019-07-A:DT	ZNP:Birds:2019-07-A	2019-07-04		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-07-A:FTP	ZNP:Birds:2019-07-A:FTP	ZNP:Birds:2019-07-A	2019-07-04	08:50+0200/08:55+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-07-A:DTP	ZNP:Birds:2019-07-A:DTP	ZNP:Birds:2019-07-A	2019-07-04		Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-07-B:IT	ZNP:Birds:2019-07-B:IT	ZNP:Birds:2019-07-B	2019-07-18	07:00+0200/09:00+0200	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-07-B:FT	ZNP:Birds:2019-07-B:FT	ZNP:Birds:2019-07-B	2019-07-18		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-07-B:DT	ZNP:Birds:2019-07-B:DT	ZNP:Birds:2019-07-B	2019-07-18		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-07-B:FTP	ZNP:Birds:2019-07-B:FTP	ZNP:Birds:2019-07-B	2019-07-18	08:00+0200/08:05+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-07-B:DTP	ZNP:Birds:2019-07-B:DTP	ZNP:Birds:2019-07-B	2019-07-18	09:35+0200/09:40+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-07-C:IT	ZNP:Birds:2019-07-C:IT	ZNP:Birds:2019-07-C	2019-07-31	08:00+0200/10:00+0200	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-07-C:FT	ZNP:Birds:2019-07-C:FT	ZNP:Birds:2019-07-C	2019-07-31		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-07-C:DT	ZNP:Birds:2019-07-C:DT	ZNP:Birds:2019-07-C	2019-07-31		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-07-C:FTP	ZNP:Birds:2019-07-C:FTP	ZNP:Birds:2019-07-C	2019-07-31	08:45+0200/08:50+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-07-C:DTP	ZNP:Birds:2019-07-C:DTP	ZNP:Birds:2019-07-C	2019-07-31	09:20+0200/09:25+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-08-B:IT	ZNP:Birds:2019-08-B:IT	ZNP:Birds:2019-08-B	2019-08-30	07:30+0200/09:30+0200	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-08-B:FT	ZNP:Birds:2019-08-B:FT	ZNP:Birds:2019-08-B	2019-08-30		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-08-B:DT	ZNP:Birds:2019-08-B:DT	ZNP:Birds:2019-08-B	2019-08-30		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-08-B:FTP	ZNP:Birds:2019-08-B:FTP	ZNP:Birds:2019-08-B	2019-08-30	07:50+0200/07:55+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-08-B:DTP	ZNP:Birds:2019-08-B:DTP	ZNP:Birds:2019-08-B	2019-08-30	09:25+0200/09:30+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-09-A:IT	ZNP:Birds:2019-09-A:IT	ZNP:Birds:2019-09-A	2019-09-11	08:00+0200/09:30+0200	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-09-A:FT	ZNP:Birds:2019-09-A:FT	ZNP:Birds:2019-09-A	2019-09-11		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-09-A:DT	ZNP:Birds:2019-09-A:DT	ZNP:Birds:2019-09-A	2019-09-11		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-09-A:FTP	ZNP:Birds:2019-09-A:FTP	ZNP:Birds:2019-09-A	2019-09-11	08:30+0200/08:35+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-09-A:DTP	ZNP:Birds:2019-09-A:DTP	ZNP:Birds:2019-09-A	2019-09-11	09:05+0200/09:10+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-09-B:IT	ZNP:Birds:2019-09-B:IT	ZNP:Birds:2019-09-B	2019-09-30	10:00+0200/12:00+0200	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-09-B:FT	ZNP:Birds:2019-09-B:FT	ZNP:Birds:2019-09-B	2019-09-30		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-09-B:DT	ZNP:Birds:2019-09-B:DT	ZNP:Birds:2019-09-B	2019-09-30		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-09-B:FTP	ZNP:Birds:2019-09-B:FTP	ZNP:Birds:2019-09-B	2019-09-30	10:50+0200/10:55+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-09-B:DTP	ZNP:Birds:2019-09-B:DTP	ZNP:Birds:2019-09-B	2019-09-30	11:45+0200/11:50+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-10-A:IT	ZNP:Birds:2019-10-A:IT	ZNP:Birds:2019-10-A	2019-10-10	08:30+0200/10:30+0200	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-10-A:FT	ZNP:Birds:2019-10-A:FT	ZNP:Birds:2019-10-A	2019-10-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-10-A:DT	ZNP:Birds:2019-10-A:DT	ZNP:Birds:2019-10-A	2019-10-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-10-A:FTP	ZNP:Birds:2019-10-A:FTP	ZNP:Birds:2019-10-A	2019-10-10	09:00+0200/09:05+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-10-A:DTP	ZNP:Birds:2019-10-A:DTP	ZNP:Birds:2019-10-A	2019-10-10		Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-10-B:IT	ZNP:Birds:2019-10-B:IT	ZNP:Birds:2019-10-B	2019-10-24	08:30+0200/10:30+0200	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-10-B:FT	ZNP:Birds:2019-10-B:FT	ZNP:Birds:2019-10-B	2019-10-24		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-10-B:DT	ZNP:Birds:2019-10-B:DT	ZNP:Birds:2019-10-B	2019-10-24		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-10-B:FTP	ZNP:Birds:2019-10-B:FTP	ZNP:Birds:2019-10-B	2019-10-24	09:10+0200/09:15+0200	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-10-B:DTP	ZNP:Birds:2019-10-B:DTP	ZNP:Birds:2019-10-B	2019-10-24	10:00+0200/10:05+0200	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-11-A:IT	ZNP:Birds:2019-11-A:IT	ZNP:Birds:2019-11-A	2019-11-05	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-11-A:FT	ZNP:Birds:2019-11-A:FT	ZNP:Birds:2019-11-A	2019-11-05		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-11-A:DT	ZNP:Birds:2019-11-A:DT	ZNP:Birds:2019-11-A	2019-11-05		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-11-A:FTP	ZNP:Birds:2019-11-A:FTP	ZNP:Birds:2019-11-A	2019-11-05	08:55+0100/09:00+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-11-A:DTP	ZNP:Birds:2019-11-A:DTP	ZNP:Birds:2019-11-A	2019-11-05	10:00+0100/10:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-11-B:IT	ZNP:Birds:2019-11-B:IT	ZNP:Birds:2019-11-B	2019-11-19	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-11-B:FT	ZNP:Birds:2019-11-B:FT	ZNP:Birds:2019-11-B	2019-11-19		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-11-B:DT	ZNP:Birds:2019-11-B:DT	ZNP:Birds:2019-11-B	2019-11-19		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-11-B:FTP	ZNP:Birds:2019-11-B:FTP	ZNP:Birds:2019-11-B	2019-11-19	09:20+0100/09:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-11-B:DTP	ZNP:Birds:2019-11-B:DTP	ZNP:Birds:2019-11-B	2019-11-19		Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-12-A:IT	ZNP:Birds:2019-12-A:IT	ZNP:Birds:2019-12-A	2019-12-04	09:00+0100/11:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-12-A:FT	ZNP:Birds:2019-12-A:FT	ZNP:Birds:2019-12-A	2019-12-04		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-12-A:DT	ZNP:Birds:2019-12-A:DT	ZNP:Birds:2019-12-A	2019-12-04		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-12-A:FTP	ZNP:Birds:2019-12-A:FTP	ZNP:Birds:2019-12-A	2019-12-04	09:40+0100/09:45+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-12-A:DTP	ZNP:Birds:2019-12-A:DTP	ZNP:Birds:2019-12-A	2019-12-04	10:30+0100/10:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2019-12-B:IT	ZNP:Birds:2019-12-B:IT	ZNP:Birds:2019-12-B	2019-12-18	09:00+0100/11:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2019-12-B:FT	ZNP:Birds:2019-12-B:FT	ZNP:Birds:2019-12-B	2019-12-18		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2019-12-B:DT	ZNP:Birds:2019-12-B:DT	ZNP:Birds:2019-12-B	2019-12-18		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2019-12-B:FTP	ZNP:Birds:2019-12-B:FTP	ZNP:Birds:2019-12-B	2019-12-18	09:55+0100/10:00+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2019-12-B:DTP	ZNP:Birds:2019-12-B:DTP	ZNP:Birds:2019-12-B	2019-12-18	10:45+0100/10:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-01-A:IT	ZNP:Birds:2022-01-A:IT	ZNP:Birds:2022-01-A	2022-01-14	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-01-B:IT	ZNP:Birds:2022-01-B:IT	ZNP:Birds:2022-01-B	2022-01-27	08:00+0100/09:30+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-02-A:IT	ZNP:Birds:2022-02-A:IT	ZNP:Birds:2022-02-A	2022-02-07	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-02-B:IT	ZNP:Birds:2022-02-B:IT	ZNP:Birds:2022-02-B	2022-02-22	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-03-A:IT	ZNP:Birds:2022-03-A:IT	ZNP:Birds:2022-03-A	2022-03-08	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-03-B:IT	ZNP:Birds:2022-03-B:IT	ZNP:Birds:2022-03-B	2022-03-25	06:00+0100/08:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-04-A:IT	ZNP:Birds:2022-04-A:IT	ZNP:Birds:2022-04-A	2022-04-06	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-04-B:IT	ZNP:Birds:2022-04-B:IT	ZNP:Birds:2022-04-B	2022-04-20	06:30+0100/09:30+0100	Transect count	180	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-05-A:IT	ZNP:Birds:2022-05-A:IT	ZNP:Birds:2022-05-A	2022-05-03	06:00+0100/08:30+0100	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-05-B:IT	ZNP:Birds:2022-05-B:IT	ZNP:Birds:2022-05-B	2022-05-19	06:30+0100/09:00+0100	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-06-A:IT	ZNP:Birds:2022-06-A:IT	ZNP:Birds:2022-06-A	2022-06-01	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-06-B:IT	ZNP:Birds:2022-06-B:IT	ZNP:Birds:2022-06-B	2022-06-16	06:00+0100/08:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-07-A:IT	ZNP:Birds:2022-07-A:IT	ZNP:Birds:2022-07-A	2022-07-06	09:00+0100/11:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-07-B:IT	ZNP:Birds:2022-07-B:IT	ZNP:Birds:2022-07-B	2022-07-28	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-08-A:IT	ZNP:Birds:2022-08-A:IT	ZNP:Birds:2022-08-A	2022-08-09	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-08-B:IT	ZNP:Birds:2022-08-B:IT	ZNP:Birds:2022-08-B	2022-08-23	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-09-A:IT	ZNP:Birds:2022-09-A:IT	ZNP:Birds:2022-09-A	2022-09-07	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-09-B:IT	ZNP:Birds:2022-09-B:IT	ZNP:Birds:2022-09-B	2022-09-23	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-10-A:IT	ZNP:Birds:2022-10-A:IT	ZNP:Birds:2022-10-A	2022-10-07	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-10-B:IT	ZNP:Birds:2022-10-B:IT	ZNP:Birds:2022-10-B	2022-10-19	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-11-A:IT	ZNP:Birds:2022-11-A:IT	ZNP:Birds:2022-11-A	2022-11-09	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-11-B:IT	ZNP:Birds:2022-11-B:IT	ZNP:Birds:2022-11-B	2022-11-21	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-12-A:IT	ZNP:Birds:2022-12-A:IT	ZNP:Birds:2022-12-A	2022-12-06	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-12-B:IT	ZNP:Birds:2022-12-B:IT	ZNP:Birds:2022-12-B	2022-12-23	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2022-01-A:FT	ZNP:Birds:2022-01-A:FT	ZNP:Birds:2022-01-A	2022-01-14		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-01-A:DT	ZNP:Birds:2022-01-A:DT	ZNP:Birds:2022-01-A	2022-01-14		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-01-B:FT	ZNP:Birds:2022-01-B:FT	ZNP:Birds:2022-01-B	2022-01-27		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-01-B:DT	ZNP:Birds:2022-01-B:DT	ZNP:Birds:2022-01-B	2022-01-27		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-02-A:FT	ZNP:Birds:2022-02-A:FT	ZNP:Birds:2022-02-A	2022-02-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-02-A:DT	ZNP:Birds:2022-02-A:DT	ZNP:Birds:2022-02-A	2022-02-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-02-B:FT	ZNP:Birds:2022-02-B:FT	ZNP:Birds:2022-02-B	2022-02-22		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-02-B:DT	ZNP:Birds:2022-02-B:DT	ZNP:Birds:2022-02-B	2022-02-22		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-03-A:FT	ZNP:Birds:2022-03-A:FT	ZNP:Birds:2022-03-A	2022-03-08		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-03-A:DT	ZNP:Birds:2022-03-A:DT	ZNP:Birds:2022-03-A	2022-03-08		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-03-B:FT	ZNP:Birds:2022-03-B:FT	ZNP:Birds:2022-03-B	2022-03-25		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-03-B:DT	ZNP:Birds:2022-03-B:DT	ZNP:Birds:2022-03-B	2022-03-25		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-04-A:FT	ZNP:Birds:2022-04-A:FT	ZNP:Birds:2022-04-A	2022-04-06		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-04-A:DT	ZNP:Birds:2022-04-A:DT	ZNP:Birds:2022-04-A	2022-04-06		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-04-B:FT	ZNP:Birds:2022-04-B:FT	ZNP:Birds:2022-04-B	2022-04-20		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-04-B:DT	ZNP:Birds:2022-04-B:DT	ZNP:Birds:2022-04-B	2022-04-20		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-05-A:FT	ZNP:Birds:2022-05-A:FT	ZNP:Birds:2022-05-A	2022-05-03		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-05-A:DT	ZNP:Birds:2022-05-A:DT	ZNP:Birds:2022-05-A	2022-05-03		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-05-B:FT	ZNP:Birds:2022-05-B:FT	ZNP:Birds:2022-05-B	2022-05-19		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-05-B:DT	ZNP:Birds:2022-05-B:DT	ZNP:Birds:2022-05-B	2022-05-19		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-06-A:FT	ZNP:Birds:2022-06-A:FT	ZNP:Birds:2022-06-A	2022-06-01		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-06-A:DT	ZNP:Birds:2022-06-A:DT	ZNP:Birds:2022-06-A	2022-06-01		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-06-B:FT	ZNP:Birds:2022-06-B:FT	ZNP:Birds:2022-06-B	2022-06-16		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-06-B:DT	ZNP:Birds:2022-06-B:DT	ZNP:Birds:2022-06-B	2022-06-16		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-07-A:FT	ZNP:Birds:2022-07-A:FT	ZNP:Birds:2022-07-A	2022-07-06		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-07-A:DT	ZNP:Birds:2022-07-A:DT	ZNP:Birds:2022-07-A	2022-07-06		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-07-B:FT	ZNP:Birds:2022-07-B:FT	ZNP:Birds:2022-07-B	2022-07-28		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-07-B:DT	ZNP:Birds:2022-07-B:DT	ZNP:Birds:2022-07-B	2022-07-28		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-08-A:FT	ZNP:Birds:2022-08-A:FT	ZNP:Birds:2022-08-A	2022-08-09		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-08-A:DT	ZNP:Birds:2022-08-A:DT	ZNP:Birds:2022-08-A	2022-08-09		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-08-B:FT	ZNP:Birds:2022-08-B:FT	ZNP:Birds:2022-08-B	2022-08-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-08-B:DT	ZNP:Birds:2022-08-B:DT	ZNP:Birds:2022-08-B	2022-08-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-09-A:FT	ZNP:Birds:2022-09-A:FT	ZNP:Birds:2022-09-A	2022-09-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-09-A:DT	ZNP:Birds:2022-09-A:DT	ZNP:Birds:2022-09-A	2022-09-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-09-B:FT	ZNP:Birds:2022-09-B:FT	ZNP:Birds:2022-09-B	2022-09-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-09-B:DT	ZNP:Birds:2022-09-B:DT	ZNP:Birds:2022-09-B	2022-09-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-10-A:FT	ZNP:Birds:2022-10-A:FT	ZNP:Birds:2022-10-A	2022-10-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-10-A:DT	ZNP:Birds:2022-10-A:DT	ZNP:Birds:2022-10-A	2022-10-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-10-B:FT	ZNP:Birds:2022-10-B:FT	ZNP:Birds:2022-10-B	2022-10-19		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-10-B:DT	ZNP:Birds:2022-10-B:DT	ZNP:Birds:2022-10-B	2022-10-19		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-11-A:FT	ZNP:Birds:2022-11-A:FT	ZNP:Birds:2022-11-A	2022-11-09		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-11-A:DT	ZNP:Birds:2022-11-A:DT	ZNP:Birds:2022-11-A	2022-11-09		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-11-B:FT	ZNP:Birds:2022-11-B:FT	ZNP:Birds:2022-11-B	2022-11-21		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-11-B:DT	ZNP:Birds:2022-11-B:DT	ZNP:Birds:2022-11-B	2022-11-21		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-12-A:FT	ZNP:Birds:2022-12-A:FT	ZNP:Birds:2022-12-A	2022-12-06		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-12-A:DT	ZNP:Birds:2022-12-A:DT	ZNP:Birds:2022-12-A	2022-12-06		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-12-B:FT	ZNP:Birds:2022-12-B:FT	ZNP:Birds:2022-12-B	2022-12-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2022-12-B:DT	ZNP:Birds:2022-12-B:DT	ZNP:Birds:2022-12-B	2022-12-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2022-01-A:FTP	ZNP:Birds:2022-01-A:FTP	ZNP:Birds:2022-01-A	2022-01-14	14:30+0100/14:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-01-A:DTP	ZNP:Birds:2022-01-A:DTP	ZNP:Birds:2022-01-A	2022-01-14	13:00+0100/13:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-01-B:FTP	ZNP:Birds:2022-01-B:FTP	ZNP:Birds:2022-01-B	2022-01-27	09:10+0100/09:15+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-01-B:DTP	ZNP:Birds:2022-01-B:DTP	ZNP:Birds:2022-01-B	2022-01-27	09:50+0100/09:55+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-02-A:FTP	ZNP:Birds:2022-02-A:FTP	ZNP:Birds:2022-02-A	2022-02-07	08:15+0100/08:20+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-02-A:DTP	ZNP:Birds:2022-02-A:DTP	ZNP:Birds:2022-02-A	2022-02-07	09:15+0100/09:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-02-B:FTP	ZNP:Birds:2022-02-B:FTP	ZNP:Birds:2022-02-B	2022-02-22	08:35+0100/08:40+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-02-B:DTP	ZNP:Birds:2022-02-B:DTP	ZNP:Birds:2022-02-B	2022-02-22	09:05+0100/09:10+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-03-A:FTP	ZNP:Birds:2022-03-A:FTP	ZNP:Birds:2022-03-A	2022-03-08	07:30+0100/07:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-03-A:DTP	ZNP:Birds:2022-03-A:DTP	ZNP:Birds:2022-03-A	2022-03-08	08:00+0100/08:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-03-B:FTP	ZNP:Birds:2022-03-B:FTP	ZNP:Birds:2022-03-B	2022-03-25	06:35+0100/06:40+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-03-B:DTP	ZNP:Birds:2022-03-B:DTP	ZNP:Birds:2022-03-B	2022-03-25	07:40+0100/07:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-04-A:FTP	ZNP:Birds:2022-04-A:FTP	ZNP:Birds:2022-04-A	2022-04-06	08:00+0100/08:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-04-A:DTP	ZNP:Birds:2022-04-A:DTP	ZNP:Birds:2022-04-A	2022-04-06	09:00+0100/09:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-04-B:FTP	ZNP:Birds:2022-04-B:FTP	ZNP:Birds:2022-04-B	2022-04-20	07:45+0100/07:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-04-B:DTP	ZNP:Birds:2022-04-B:DTP	ZNP:Birds:2022-04-B	2022-04-20	08:35+0100/08:40+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-05-A:FTP	ZNP:Birds:2022-05-A:FTP	ZNP:Birds:2022-05-A	2022-05-03	06:20+0100/06:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-05-A:DTP	ZNP:Birds:2022-05-A:DTP	ZNP:Birds:2022-05-A	2022-05-03	08:00+0100/08:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-05-B:FTP	ZNP:Birds:2022-05-B:FTP	ZNP:Birds:2022-05-B	2022-05-19	07:40+0100/07:45+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-05-B:DTP	ZNP:Birds:2022-05-B:DTP	ZNP:Birds:2022-05-B	2022-05-19	09:00+0100/09:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-06-A:FTP	ZNP:Birds:2022-06-A:FTP	ZNP:Birds:2022-06-A	2022-06-01	08:30+0100/08:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-06-A:DTP	ZNP:Birds:2022-06-A:DTP	ZNP:Birds:2022-06-A	2022-06-01	09:30+0100/09:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-06-B:FTP	ZNP:Birds:2022-06-B:FTP	ZNP:Birds:2022-06-B	2022-06-16	06:50+0100/06:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-06-B:DTP	ZNP:Birds:2022-06-B:DTP	ZNP:Birds:2022-06-B	2022-06-16	08:00+0100/08:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-07-A:FTP	ZNP:Birds:2022-07-A:FTP	ZNP:Birds:2022-07-A	2022-07-06	09:45+0100/09:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-07-A:DTP	ZNP:Birds:2022-07-A:DTP	ZNP:Birds:2022-07-A	2022-07-06	10:40+0100/10:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-07-B:FTP	ZNP:Birds:2022-07-B:FTP	ZNP:Birds:2022-07-B	2022-07-28	07:45+0100/07:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-07-B:DTP	ZNP:Birds:2022-07-B:DTP	ZNP:Birds:2022-07-B	2022-07-28	08:30+0100/08:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-08-A:FTP	ZNP:Birds:2022-08-A:FTP	ZNP:Birds:2022-08-A	2022-08-09	07:40+0100/07:45+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-08-A:DTP	ZNP:Birds:2022-08-A:DTP	ZNP:Birds:2022-08-A	2022-08-09	08:20+0100/08:25+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-08-B:FTP	ZNP:Birds:2022-08-B:FTP	ZNP:Birds:2022-08-B	2022-08-23	07:10+0100/07:15+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-08-B:DTP	ZNP:Birds:2022-08-B:DTP	ZNP:Birds:2022-08-B	2022-08-23	07:50+0100/07:55+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-09-A:FTP	ZNP:Birds:2022-09-A:FTP	ZNP:Birds:2022-09-A	2022-09-07	07:50+0100/07:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-09-A:DTP	ZNP:Birds:2022-09-A:DTP	ZNP:Birds:2022-09-A	2022-09-07	08:15+0100/08:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-09-B:FTP	ZNP:Birds:2022-09-B:FTP	ZNP:Birds:2022-09-B	2022-09-23	07:30+0100/07:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-09-B:DTP	ZNP:Birds:2022-09-B:DTP	ZNP:Birds:2022-09-B	2022-09-23	08:05+0100/08:10+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-10-A:FTP	ZNP:Birds:2022-10-A:FTP	ZNP:Birds:2022-10-A	2022-10-07	07:30+0100/07:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-10-A:DTP	ZNP:Birds:2022-10-A:DTP	ZNP:Birds:2022-10-A	2022-10-07	08:15+0100/08:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-10-B:FTP	ZNP:Birds:2022-10-B:FTP	ZNP:Birds:2022-10-B	2022-10-19	07:45+0100/07:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-10-B:DTP	ZNP:Birds:2022-10-B:DTP	ZNP:Birds:2022-10-B	2022-10-19	08:40+0100/08:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-11-A:FTP	ZNP:Birds:2022-11-A:FTP	ZNP:Birds:2022-11-A	2022-11-09	08:20+0100/08:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-11-A:DTP	ZNP:Birds:2022-11-A:DTP	ZNP:Birds:2022-11-A	2022-11-09	09:15+0100/09:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-11-B:FTP	ZNP:Birds:2022-11-B:FTP	ZNP:Birds:2022-11-B	2022-11-21	09:00+0100/09:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-11-B:DTP	ZNP:Birds:2022-11-B:DTP	ZNP:Birds:2022-11-B	2022-11-21	10:00+0100/10:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-12-A:FTP	ZNP:Birds:2022-12-A:FTP	ZNP:Birds:2022-12-A	2022-12-06	08:50+0100/08:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-12-A:DTP	ZNP:Birds:2022-12-A:DTP	ZNP:Birds:2022-12-A	2022-12-06	09:50+0100/09:55+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2022-12-B:FTP	ZNP:Birds:2022-12-B:FTP	ZNP:Birds:2022-12-B	2022-12-23	09:00+0100/09:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2022-12-B:DTP	ZNP:Birds:2022-12-B:DTP	ZNP:Birds:2022-12-B	2022-12-23	10:00+0100/10:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-01-A:IT	ZNP:Birds:2023-01-A:IT	ZNP:Birds:2023-01-A	2023-01-10	07:45+0100/09:45+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-02-A:IT	ZNP:Birds:2023-02-A:IT	ZNP:Birds:2023-02-A	2023-02-07	08:00+0100/09:30+0100	Transect count	90	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-02-B:IT	ZNP:Birds:2023-02-B:IT	ZNP:Birds:2023-02-B	2023-02-21	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-03-A:IT	ZNP:Birds:2023-03-A:IT	ZNP:Birds:2023-03-A	2023-03-09	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-04-B:IT	ZNP:Birds:2023-04-B:IT	ZNP:Birds:2023-04-B	2023-04-18	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-05-A:IT	ZNP:Birds:2023-05-A:IT	ZNP:Birds:2023-05-A	2023-05-02	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-05-B:IT	ZNP:Birds:2023-05-B:IT	ZNP:Birds:2023-05-B	2023-05-19	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-06-A:IT	ZNP:Birds:2023-06-A:IT	ZNP:Birds:2023-06-A	2023-06-01	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-06-B:IT	ZNP:Birds:2023-06-B:IT	ZNP:Birds:2023-06-B	2023-06-20	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-07-A:IT	ZNP:Birds:2023-07-A:IT	ZNP:Birds:2023-07-A	2023-07-12	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-08-A:IT	ZNP:Birds:2023-08-A:IT	ZNP:Birds:2023-08-A	2023-08-13	06:45+0100/08:45+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-08-B:IT	ZNP:Birds:2023-08-B:IT	ZNP:Birds:2023-08-B	2023-08-25	07:15+0100/09:15+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-09-A:IT	ZNP:Birds:2023-09-A:IT	ZNP:Birds:2023-09-A	2023-09-12	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-09-B:IT	ZNP:Birds:2023-09-B:IT	ZNP:Birds:2023-09-B	2023-09-27	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-10-A:IT	ZNP:Birds:2023-10-A:IT	ZNP:Birds:2023-10-A	2023-10-11	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-10-B:IT	ZNP:Birds:2023-10-B:IT	ZNP:Birds:2023-10-B	2023-10-24	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-11-A:IT	ZNP:Birds:2023-11-A:IT	ZNP:Birds:2023-11-A	2023-11-13	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-11-B:IT	ZNP:Birds:2023-11-B:IT	ZNP:Birds:2023-11-B	2023-11-30	09:30+0100/11:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-12-A:IT	ZNP:Birds:2023-12-A:IT	ZNP:Birds:2023-12-A	2023-12-08	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-12-B:IT	ZNP:Birds:2023-12-B:IT	ZNP:Birds:2023-12-B	2023-12-20	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2023-01-A:FT	ZNP:Birds:2023-01-A:FT	ZNP:Birds:2023-01-A	2023-01-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-01-A:DT	ZNP:Birds:2023-01-A:DT	ZNP:Birds:2023-01-A	2023-01-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-02-A:FT	ZNP:Birds:2023-02-A:FT	ZNP:Birds:2023-02-A	2023-02-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-02-A:DT	ZNP:Birds:2023-02-A:DT	ZNP:Birds:2023-02-A	2023-02-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-02-B:FT	ZNP:Birds:2023-02-B:FT	ZNP:Birds:2023-02-B	2023-02-21		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-02-B:DT	ZNP:Birds:2023-02-B:DT	ZNP:Birds:2023-02-B	2023-02-21		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-03-A:FT	ZNP:Birds:2023-03-A:FT	ZNP:Birds:2023-03-A	2023-03-09		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-03-A:DT	ZNP:Birds:2023-03-A:DT	ZNP:Birds:2023-03-A	2023-03-09		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-04-B:FT	ZNP:Birds:2023-04-B:FT	ZNP:Birds:2023-04-B	2023-04-18		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-04-B:DT	ZNP:Birds:2023-04-B:DT	ZNP:Birds:2023-04-B	2023-04-18		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-05-A:FT	ZNP:Birds:2023-05-A:FT	ZNP:Birds:2023-05-A	2023-05-02		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-05-A:DT	ZNP:Birds:2023-05-A:DT	ZNP:Birds:2023-05-A	2023-05-02		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-05-B:FT	ZNP:Birds:2023-05-B:FT	ZNP:Birds:2023-05-B	2023-05-19		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-05-B:DT	ZNP:Birds:2023-05-B:DT	ZNP:Birds:2023-05-B	2023-05-19		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-06-A:FT	ZNP:Birds:2023-06-A:FT	ZNP:Birds:2023-06-A	2023-06-01		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-06-A:DT	ZNP:Birds:2023-06-A:DT	ZNP:Birds:2023-06-A	2023-06-01		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-06-B:FT	ZNP:Birds:2023-06-B:FT	ZNP:Birds:2023-06-B	2023-06-20		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-06-B:DT	ZNP:Birds:2023-06-B:DT	ZNP:Birds:2023-06-B	2023-06-20		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-07-A:FT	ZNP:Birds:2023-07-A:FT	ZNP:Birds:2023-07-A	2023-07-12		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-07-A:DT	ZNP:Birds:2023-07-A:DT	ZNP:Birds:2023-07-A	2023-07-12		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-08-A:FT	ZNP:Birds:2023-08-A:FT	ZNP:Birds:2023-08-A	2023-08-13		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-08-A:DT	ZNP:Birds:2023-08-A:DT	ZNP:Birds:2023-08-A	2023-08-13		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-08-B:FT	ZNP:Birds:2023-08-B:FT	ZNP:Birds:2023-08-B	2023-08-25		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-08-B:DT	ZNP:Birds:2023-08-B:DT	ZNP:Birds:2023-08-B	2023-08-25		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-09-A:FT	ZNP:Birds:2023-09-A:FT	ZNP:Birds:2023-09-A	2023-09-12		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-09-A:DT	ZNP:Birds:2023-09-A:DT	ZNP:Birds:2023-09-A	2023-09-12		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-09-B:FT	ZNP:Birds:2023-09-B:FT	ZNP:Birds:2023-09-B	2023-09-27		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-09-B:DT	ZNP:Birds:2023-09-B:DT	ZNP:Birds:2023-09-B	2023-09-27		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-10-A:FT	ZNP:Birds:2023-10-A:FT	ZNP:Birds:2023-10-A	2023-10-11		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-10-A:DT	ZNP:Birds:2023-10-A:DT	ZNP:Birds:2023-10-A	2023-10-11		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-10-B:FT	ZNP:Birds:2023-10-B:FT	ZNP:Birds:2023-10-B	2023-10-24		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-10-B:DT	ZNP:Birds:2023-10-B:DT	ZNP:Birds:2023-10-B	2023-10-24		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-11-A:FT	ZNP:Birds:2023-11-A:FT	ZNP:Birds:2023-11-A	2023-11-13		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-11-A:DT	ZNP:Birds:2023-11-A:DT	ZNP:Birds:2023-11-A	2023-11-13		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-11-B:FT	ZNP:Birds:2023-11-B:FT	ZNP:Birds:2023-11-B	2023-11-30		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-11-B:DT	ZNP:Birds:2023-11-B:DT	ZNP:Birds:2023-11-B	2023-11-30		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-12-A:FT	ZNP:Birds:2023-12-A:FT	ZNP:Birds:2023-12-A	2023-12-08		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-12-A:DT	ZNP:Birds:2023-12-A:DT	ZNP:Birds:2023-12-A	2023-12-08		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-12-B:FT	ZNP:Birds:2023-12-B:FT	ZNP:Birds:2023-12-B	2023-12-20		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2023-12-B:DT	ZNP:Birds:2023-12-B:DT	ZNP:Birds:2023-12-B	2023-12-20		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2023-01-A:FTP	ZNP:Birds:2023-01-A:FTP	ZNP:Birds:2023-01-A	2023-01-10	08:40+0100/08:45+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-01-A:DTP	ZNP:Birds:2023-01-A:DTP	ZNP:Birds:2023-01-A	2023-01-10	09:00+0100/09:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-02-A:FTP	ZNP:Birds:2023-02-A:FTP	ZNP:Birds:2023-02-A	2023-02-07	08:20+0100/08:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-02-A:DTP	ZNP:Birds:2023-02-A:DTP	ZNP:Birds:2023-02-A	2023-02-07	09:05+0100/09:10+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-02-B:FTP	ZNP:Birds:2023-02-B:FTP	ZNP:Birds:2023-02-B	2023-02-21	08:25+0100/08:30+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-02-B:DTP	ZNP:Birds:2023-02-B:DTP	ZNP:Birds:2023-02-B	2023-02-21	09:00+0100/09:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-03-A:FTP	ZNP:Birds:2023-03-A:FTP	ZNP:Birds:2023-03-A	2023-03-09	07:35+0100/07:40+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-03-A:DTP	ZNP:Birds:2023-03-A:DTP	ZNP:Birds:2023-03-A	2023-03-09	08:20+0100/08:25+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-04-B:FTP	ZNP:Birds:2023-04-B:FTP	ZNP:Birds:2023-04-B	2023-04-18	07:25+0100/07:30+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-04-B:DTP	ZNP:Birds:2023-04-B:DTP	ZNP:Birds:2023-04-B	2023-04-18	08:45+0100/08:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-05-A:FTP	ZNP:Birds:2023-05-A:FTP	ZNP:Birds:2023-05-A	2023-05-02	07:20+0100/07:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-05-A:DTP	ZNP:Birds:2023-05-A:DTP	ZNP:Birds:2023-05-A	2023-05-02	08:40+0100/08:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-05-B:FTP	ZNP:Birds:2023-05-B:FTP	ZNP:Birds:2023-05-B	2023-05-19	08:30+0100/08:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-05-B:DTP	ZNP:Birds:2023-05-B:DTP	ZNP:Birds:2023-05-B	2023-05-19	09:30+0100/09:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-06-A:FTP	ZNP:Birds:2023-06-A:FTP	ZNP:Birds:2023-06-A	2023-06-01	07:30+0100/07:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-06-A:DTP	ZNP:Birds:2023-06-A:DTP	ZNP:Birds:2023-06-A	2023-06-01	08:45+0100/08:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-06-B:FTP	ZNP:Birds:2023-06-B:FTP	ZNP:Birds:2023-06-B	2023-06-20	07:30+0100/07:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-06-B:DTP	ZNP:Birds:2023-06-B:DTP	ZNP:Birds:2023-06-B	2023-06-20	08:30+0100/08:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-07-A:FTP	ZNP:Birds:2023-07-A:FTP	ZNP:Birds:2023-07-A	2023-07-12	08:00+0100/08:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-07-A:DTP	ZNP:Birds:2023-07-A:DTP	ZNP:Birds:2023-07-A	2023-07-12	09:00+0100/09:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-08-A:FTP	ZNP:Birds:2023-08-A:FTP	ZNP:Birds:2023-08-A	2023-08-13	07:15+0100/07:20+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-08-A:DTP	ZNP:Birds:2023-08-A:DTP	ZNP:Birds:2023-08-A	2023-08-13	08:00+0100/08:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-08-B:FTP	ZNP:Birds:2023-08-B:FTP	ZNP:Birds:2023-08-B	2023-08-25	07:45+0100/07:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-08-B:DTP	ZNP:Birds:2023-08-B:DTP	ZNP:Birds:2023-08-B	2023-08-25	08:45+0100/08:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-09-A:FTP	ZNP:Birds:2023-09-A:FTP	ZNP:Birds:2023-09-A	2023-09-12	08:30+0100/08:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-09-A:DTP	ZNP:Birds:2023-09-A:DTP	ZNP:Birds:2023-09-A	2023-09-12	09:20+0100/09:25+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-09-B:FTP	ZNP:Birds:2023-09-B:FTP	ZNP:Birds:2023-09-B	2023-09-27	08:10+0100/08:15+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-09-B:DTP	ZNP:Birds:2023-09-B:DTP	ZNP:Birds:2023-09-B	2023-09-27	08:45+0100/08:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-10-A:FTP	ZNP:Birds:2023-10-A:FTP	ZNP:Birds:2023-10-A	2023-10-11	08:30+0100/08:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-10-A:DTP	ZNP:Birds:2023-10-A:DTP	ZNP:Birds:2023-10-A	2023-10-11	09:10+0100/09:15+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-10-B:FTP	ZNP:Birds:2023-10-B:FTP	ZNP:Birds:2023-10-B	2023-10-24	08:25+0100/08:30+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-10-B:DTP	ZNP:Birds:2023-10-B:DTP	ZNP:Birds:2023-10-B	2023-10-24	09:00+0100/09:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-11-A:FTP	ZNP:Birds:2023-11-A:FTP	ZNP:Birds:2023-11-A	2023-11-13	08:45+0100/08:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-11-A:DTP	ZNP:Birds:2023-11-A:DTP	ZNP:Birds:2023-11-A	2023-11-13	07:45+0100/07:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-11-B:FTP	ZNP:Birds:2023-11-B:FTP	ZNP:Birds:2023-11-B	2023-11-30	09:45+0100/09:50+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-11-B:DTP	ZNP:Birds:2023-11-B:DTP	ZNP:Birds:2023-11-B	2023-11-30	11:00+0100/11:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-12-A:FTP	ZNP:Birds:2023-12-A:FTP	ZNP:Birds:2023-12-A	2023-12-08	08:20+0100/08:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-12-A:DTP	ZNP:Birds:2023-12-A:DTP	ZNP:Birds:2023-12-A	2023-12-08	09:10+0100/09:15+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2023-12-B:FTP	ZNP:Birds:2023-12-B:FTP	ZNP:Birds:2023-12-B	2023-12-20	09:00+0100/09:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2023-12-B:DTP	ZNP:Birds:2023-12-B:DTP	ZNP:Birds:2023-12-B	2023-12-20	10:00+0100/10:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-01-A:IT	ZNP:Birds:2024-01-A:IT	ZNP:Birds:2024-01-A	2024-01-10	08:15+0100/10:15+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-01-A:FTP	ZNP:Birds:2024-01-A:FTP	ZNP:Birds:2024-01-A	2024-01-10	09:00+0100/09:05+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-01-A:DTP	ZNP:Birds:2024-01-A:DTP	ZNP:Birds:2024-01-A	2024-01-10	09:40+0100/09:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-01-A:FT	ZNP:Birds:2024-01-A:FT	ZNP:Birds:2024-01-A	2024-01-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-01-A:DT	ZNP:Birds:2024-01-A:DT	ZNP:Birds:2024-01-A	2024-01-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-01-B:IT	ZNP:Birds:2024-01-B:IT	ZNP:Birds:2024-01-B	2024-01-29	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-01-B:FTP	ZNP:Birds:2024-01-B:FTP	ZNP:Birds:2024-01-B	2024-01-29	09:15+0100/09:20+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-01-B:DTP	ZNP:Birds:2024-01-B:DTP	ZNP:Birds:2024-01-B	2024-01-29	10:15+0100/10:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-01-B:FT	ZNP:Birds:2024-01-B:FT	ZNP:Birds:2024-01-B	2024-01-29		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-01-B:DT	ZNP:Birds:2024-01-B:DT	ZNP:Birds:2024-01-B	2024-01-29		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-02-A:IT	ZNP:Birds:2024-02-A:IT	ZNP:Birds:2024-02-A	2024-02-14	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-02-A:FTP	ZNP:Birds:2024-02-A:FTP	ZNP:Birds:2024-02-A	2024-02-14	08:15+0100/08:20+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-02-A:DTP	ZNP:Birds:2024-02-A:DTP	ZNP:Birds:2024-02-A	2024-02-14	09:15+0100/09:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-02-A:FT	ZNP:Birds:2024-02-A:FT	ZNP:Birds:2024-02-A	2024-02-14		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-02-A:DT	ZNP:Birds:2024-02-A:DT	ZNP:Birds:2024-02-A	2024-02-14		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-02-B:IT	ZNP:Birds:2024-02-B:IT	ZNP:Birds:2024-02-B	2024-02-28	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-02-B:FTP	ZNP:Birds:2024-02-B:FTP	ZNP:Birds:2024-02-B	2024-02-28	08:40+0100/08:45+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-02-B:DTP	ZNP:Birds:2024-02-B:DTP	ZNP:Birds:2024-02-B	2024-02-28	09:45+0100/09:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-02-B:FT	ZNP:Birds:2024-02-B:FT	ZNP:Birds:2024-02-B	2024-02-28		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-02-B:DT	ZNP:Birds:2024-02-B:DT	ZNP:Birds:2024-02-B	2024-02-28		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-03-A:IT	ZNP:Birds:2024-03-A:IT	ZNP:Birds:2024-03-A	2024-03-14	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-03-A:FTP	ZNP:Birds:2024-03-A:FTP	ZNP:Birds:2024-03-A	2024-03-14	07:05+0100/07:10+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-03-A:DTP	ZNP:Birds:2024-03-A:DTP	ZNP:Birds:2024-03-A	2024-03-14	08:00+0100/08:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-03-A:FT	ZNP:Birds:2024-03-A:FT	ZNP:Birds:2024-03-A	2024-03-14		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-03-A:DT	ZNP:Birds:2024-03-A:DT	ZNP:Birds:2024-03-A	2024-03-14		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-03-B:IT	ZNP:Birds:2024-03-B:IT	ZNP:Birds:2024-03-B	2024-03-29	07:15+0100/09:15+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-03-B:FTP	ZNP:Birds:2024-03-B:FTP	ZNP:Birds:2024-03-B	2024-03-29	07:50+0100/07:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-03-B:DTP	ZNP:Birds:2024-03-B:DTP	ZNP:Birds:2024-03-B	2024-03-29	08:40+0100/08:45+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-03-B:FT	ZNP:Birds:2024-03-B:FT	ZNP:Birds:2024-03-B	2024-03-29		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-03-B:DT	ZNP:Birds:2024-03-B:DT	ZNP:Birds:2024-03-B	2024-03-29		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-04-A:IT	ZNP:Birds:2024-04-A:IT	ZNP:Birds:2024-04-A	2024-04-14	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-04-A:FTP	ZNP:Birds:2024-04-A:FTP	ZNP:Birds:2024-04-A	2024-04-14	09:30+0100/09:35+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-04-A:DTP	ZNP:Birds:2024-04-A:DTP	ZNP:Birds:2024-04-A	2024-04-14	11:05+0100/11:10+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-04-A:FT	ZNP:Birds:2024-04-A:FT	ZNP:Birds:2024-04-A	2024-04-14		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-04-A:DT	ZNP:Birds:2024-04-A:DT	ZNP:Birds:2024-04-A	2024-04-14		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-04-B:IT	ZNP:Birds:2024-04-B:IT	ZNP:Birds:2024-04-B	2024-04-29	07:00+0100/09:30+0100	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-04-B:FTP	ZNP:Birds:2024-04-B:FTP	ZNP:Birds:2024-04-B	2024-04-29	08:20+0100/08:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-04-B:DTP	ZNP:Birds:2024-04-B:DTP	ZNP:Birds:2024-04-B	2024-04-29	10:25+0100/10:30+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-04-B:FT	ZNP:Birds:2024-04-B:FT	ZNP:Birds:2024-04-B	2024-04-29		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-04-B:DT	ZNP:Birds:2024-04-B:DT	ZNP:Birds:2024-04-B	2024-04-29		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-05-A:IT	ZNP:Birds:2024-05-A:IT	ZNP:Birds:2024-05-A	2024-05-10	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-05-A:DTP	ZNP:Birds:2024-05-A:DTP	ZNP:Birds:2024-05-A	2024-05-10	07:12+0100/07:17+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-05-A:FTP	ZNP:Birds:2024-05-A:FTP	ZNP:Birds:2024-05-A	2024-05-10	09:35+0100/09:40+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-05-A:FT	ZNP:Birds:2024-05-A:FT	ZNP:Birds:2024-05-A	2024-05-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-05-A:DT	ZNP:Birds:2024-05-A:DT	ZNP:Birds:2024-05-A	2024-05-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-05-B:IT	ZNP:Birds:2024-05-B:IT	ZNP:Birds:2024-05-B	2024-05-28	06:30+0100/09:00+0100	Transect count	150	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-05-B:DTP	ZNP:Birds:2024-05-B:DTP	ZNP:Birds:2024-05-B	2024-05-28	07:45+0100/07:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-05-B:FTP	ZNP:Birds:2024-05-B:FTP	ZNP:Birds:2024-05-B	2024-05-28	08:15+0100/08:20+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-05-B:FT	ZNP:Birds:2024-05-B:FT	ZNP:Birds:2024-05-B	2024-05-28		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-05-B:DT	ZNP:Birds:2024-05-B:DT	ZNP:Birds:2024-05-B	2024-05-28		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-06-A:IT	ZNP:Birds:2024-06-A:IT	ZNP:Birds:2024-06-A	2024-06-13	06:30+0100/08:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-06-A:FTP	ZNP:Birds:2024-06-A:FTP	ZNP:Birds:2024-06-A	2024-06-13	07:15+0100/07:20+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-06-A:DTP	ZNP:Birds:2024-06-A:DTP	ZNP:Birds:2024-06-A	2024-06-13	08:25+0100/08:30+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-06-A:FT	ZNP:Birds:2024-06-A:FT	ZNP:Birds:2024-06-A	2024-06-13		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-06-A:DT	ZNP:Birds:2024-06-A:DT	ZNP:Birds:2024-06-A	2024-06-13		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-06-B:IT	ZNP:Birds:2024-06-B:IT	ZNP:Birds:2024-06-B	2024-06-27	06:45+0100/08:45+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-06-B:FTP	ZNP:Birds:2024-06-B:FTP	ZNP:Birds:2024-06-B	2024-06-27	07:20+0100/07:25+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-06-B:DTP	ZNP:Birds:2024-06-B:DTP	ZNP:Birds:2024-06-B	2024-06-27	08:35+0100/08:40+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-06-B:FT	ZNP:Birds:2024-06-B:FT	ZNP:Birds:2024-06-B	2024-06-27		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-06-B:DT	ZNP:Birds:2024-06-B:DT	ZNP:Birds:2024-06-B	2024-06-27		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-07-A:IT	ZNP:Birds:2024-07-A:IT	ZNP:Birds:2024-07-A	2024-07-10	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-07-A:FTP	ZNP:Birds:2024-07-A:FTP	ZNP:Birds:2024-07-A	2024-07-10	07:50+0100/07:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-07-A:DTP	ZNP:Birds:2024-07-A:DTP	ZNP:Birds:2024-07-A	2024-07-10	08:45+0100/08:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-07-A:FT	ZNP:Birds:2024-07-A:FT	ZNP:Birds:2024-07-A	2024-07-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-07-A:DT	ZNP:Birds:2024-07-A:DT	ZNP:Birds:2024-07-A	2024-07-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-07-B:IT	ZNP:Birds:2024-07-B:IT	ZNP:Birds:2024-07-B	2024-07-29	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-07-B:FTP	ZNP:Birds:2024-07-B:FTP	ZNP:Birds:2024-07-B	2024-07-29	07:55+0100/08:00+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-07-B:DTP	ZNP:Birds:2024-07-B:DTP	ZNP:Birds:2024-07-B	2024-07-29	09:25+0100/09:30+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-07-B:FT	ZNP:Birds:2024-07-B:FT	ZNP:Birds:2024-07-B	2024-07-29		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-07-B:DT	ZNP:Birds:2024-07-B:DT	ZNP:Birds:2024-07-B	2024-07-29		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-08-A:IT	ZNP:Birds:2024-08-A:IT	ZNP:Birds:2024-08-A	2024-08-07	07:00+0100/09:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-08-A:FTP	ZNP:Birds:2024-08-A:FTP	ZNP:Birds:2024-08-A	2024-08-07	07:25+0100/07:30+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-08-A:DTP	ZNP:Birds:2024-08-A:DTP	ZNP:Birds:2024-08-A	2024-08-07	08:00+0100/08:05+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-08-A:FT	ZNP:Birds:2024-08-A:FT	ZNP:Birds:2024-08-A	2024-08-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-08-A:DT	ZNP:Birds:2024-08-A:DT	ZNP:Birds:2024-08-A	2024-08-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-09-A:IT	ZNP:Birds:2024-09-A:IT	ZNP:Birds:2024-09-A	2024-09-10	07:45+0100/09:45+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-09-A:FTP	ZNP:Birds:2024-09-A:FTP	ZNP:Birds:2024-09-A	2024-09-10	08:35+0100/08:40+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-09-A:DTP	ZNP:Birds:2024-09-A:DTP	ZNP:Birds:2024-09-A	2024-09-10	09:25+0100/09:30+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-09-A:FT	ZNP:Birds:2024-09-A:FT	ZNP:Birds:2024-09-A	2024-09-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-09-A:DT	ZNP:Birds:2024-09-A:DT	ZNP:Birds:2024-09-A	2024-09-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-09-B:IT	ZNP:Birds:2024-09-B:IT	ZNP:Birds:2024-09-B	2024-09-24	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-09-B:FTP	ZNP:Birds:2024-09-B:FTP	ZNP:Birds:2024-09-B	2024-09-24	08:10+0100/08:15+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-09-B:DTP	ZNP:Birds:2024-09-B:DTP	ZNP:Birds:2024-09-B	2024-09-24	09:10+0100/09:15+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-09-B:FT	ZNP:Birds:2024-09-B:FT	ZNP:Birds:2024-09-B	2024-09-24		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-09-B:DT	ZNP:Birds:2024-09-B:DT	ZNP:Birds:2024-09-B	2024-09-24		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-10-A:IT	ZNP:Birds:2024-10-A:IT	ZNP:Birds:2024-10-A	2024-10-08	07:15+0100/09:15+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-10-A:FTP	ZNP:Birds:2024-10-A:FTP	ZNP:Birds:2024-10-A	2024-10-08	07:55+0100/08:00+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-10-A:DTP	ZNP:Birds:2024-10-A:DTP	ZNP:Birds:2024-10-A	2024-10-08	09:15+0100/09:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-10-A:FT	ZNP:Birds:2024-10-A:FT	ZNP:Birds:2024-10-A	2024-10-08		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-10-A:DT	ZNP:Birds:2024-10-A:DT	ZNP:Birds:2024-10-A	2024-10-08		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-10-B:IT	ZNP:Birds:2024-10-B:IT	ZNP:Birds:2024-10-B	2024-10-23	07:30+0100/09:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-10-B:FTP	ZNP:Birds:2024-10-B:FTP	ZNP:Birds:2024-10-B	2024-10-23	08:05+0100/08:10+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-10-B:DTP	ZNP:Birds:2024-10-B:DTP	ZNP:Birds:2024-10-B	2024-10-23	09:15+0100/09:20+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-10-B:FT	ZNP:Birds:2024-10-B:FT	ZNP:Birds:2024-10-B	2024-10-23		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-10-B:DT	ZNP:Birds:2024-10-B:DT	ZNP:Birds:2024-10-B	2024-10-23		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-11-A:IT	ZNP:Birds:2024-11-A:IT	ZNP:Birds:2024-11-A	2024-11-14	08:30+0100/10:30+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-11-A:FTP	ZNP:Birds:2024-11-A:FTP	ZNP:Birds:2024-11-A	2024-11-14	09:50+0100/09:55+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-11-A:DTP	ZNP:Birds:2024-11-A:DTP	ZNP:Birds:2024-11-A	2024-11-14	10:45+0100/10:50+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-11-A:FT	ZNP:Birds:2024-11-A:FT	ZNP:Birds:2024-11-A	2024-11-14		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-11-A:DT	ZNP:Birds:2024-11-A:DT	ZNP:Birds:2024-11-A	2024-11-14		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2024-12-A:IT	ZNP:Birds:2024-12-A:IT	ZNP:Birds:2024-12-A	2024-12-04	08:00+0100/10:00+0100	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2024-12-A:FTP	ZNP:Birds:2024-12-A:FTP	ZNP:Birds:2024-12-A	2024-12-04	08:40+0100/08:45+0100	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2024-12-A:DTP	ZNP:Birds:2024-12-A:DTP	ZNP:Birds:2024-12-A	2024-12-04	09:30+0100/09:35+0100	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2024-12-A:FT	ZNP:Birds:2024-12-A:FT	ZNP:Birds:2024-12-A	2024-12-04		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2024-12-A:DT	ZNP:Birds:2024-12-A:DT	ZNP:Birds:2024-12-A	2024-12-04		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-01-A:IT	ZNP:Birds:2025-01-A:IT	ZNP:Birds:2025-01-A	2025-01-03	09:00/11:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-01-B:IT	ZNP:Birds:2025-01-B:IT	ZNP:Birds:2025-01-B	2025-01-15	09:00/11:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-02-A:IT	ZNP:Birds:2025-02-A:IT	ZNP:Birds:2025-02-A	2025-02-18	08:30/10:30	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-02-B:IT	ZNP:Birds:2025-02-B:IT	ZNP:Birds:2025-02-B	2025-02-26	08:30/10:30	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-03-A:IT	ZNP:Birds:2025-03-A:IT	ZNP:Birds:2025-03-A	2025-03-10	09:00/11:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-03-B:IT	ZNP:Birds:2025-03-B:IT	ZNP:Birds:2025-03-B	2025-03-26	08:00/10:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-04-A:IT	ZNP:Birds:2025-04-A:IT	ZNP:Birds:2025-04-A	2025-04-09	08:00/10:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-04-B:IT	ZNP:Birds:2025-04-B:IT	ZNP:Birds:2025-04-B	2025-04-29	08:00/10:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-05-A:IT	ZNP:Birds:2025-05-A:IT	ZNP:Birds:2025-05-A	2025-05-09	07:00/09:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-05-B:IT	ZNP:Birds:2025-05-B:IT	ZNP:Birds:2025-05-B	2025-05-28	08:30/10:30	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-06-A:IT	ZNP:Birds:2025-06-A:IT	ZNP:Birds:2025-06-A	2025-06-10	07:30/09:30	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-06-B:IT	ZNP:Birds:2025-06-B:IT	ZNP:Birds:2025-06-B	2025-06-25	07:30/09:30	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-07-A:IT	ZNP:Birds:2025-07-A:IT	ZNP:Birds:2025-07-A	2025-07-10	07:30/09:30	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-07-B:IT	ZNP:Birds:2025-07-B:IT	ZNP:Birds:2025-07-B	2025-07-29	07:30/09:30	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-08-A:IT	ZNP:Birds:2025-08-A:IT	ZNP:Birds:2025-08-A	2025-08-12	07:30/09:30	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-08-B:IT	ZNP:Birds:2025-08-B:IT	ZNP:Birds:2025-08-B	2025-08-29	07:30/09:30	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-09-A:IT	ZNP:Birds:2025-09-A:IT	ZNP:Birds:2025-09-A	2025-09-14	07:45/09:45	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-09-B:IT	ZNP:Birds:2025-09-B:IT	ZNP:Birds:2025-09-B	2025-09-30	09:00/11:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-10-A:IT	ZNP:Birds:2025-10-A:IT	ZNP:Birds:2025-10-A	2025-10-07	08:00/10:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-10-B:IT	ZNP:Birds:2025-10-B:IT	ZNP:Birds:2025-10-B	2025-10-28	08:00/10:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-11-A:IT	ZNP:Birds:2025-11-A:IT	ZNP:Birds:2025-11-A	2025-11-07	08:00/10:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-11-B:IT	ZNP:Birds:2025-11-B:IT	ZNP:Birds:2025-11-B	2025-11-28	10:00/12:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-12-A:IT	ZNP:Birds:2025-12-A:IT	ZNP:Birds:2025-12-A	2025-12-10	09:00/11:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-12-B:IT	ZNP:Birds:2025-12-B:IT	ZNP:Birds:2025-12-B	2025-12-22	09:00/11:00	Transect count	120	minute	IT	BE	Zwin Nature Park, Inner Trail	51.3592	3.348	WGS84	275
+ZNP:Birds:2025-01-A:FT	ZNP:Birds:2025-01-A:FT	ZNP:Birds:2025-01-A	2025-01-03		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-01-A:DT	ZNP:Birds:2025-01-A:DT	ZNP:Birds:2025-01-A	2025-01-03		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-01-B:FT	ZNP:Birds:2025-01-B:FT	ZNP:Birds:2025-01-B	2025-01-15		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-01-B:DT	ZNP:Birds:2025-01-B:DT	ZNP:Birds:2025-01-B	2025-01-15		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-02-A:FT	ZNP:Birds:2025-02-A:FT	ZNP:Birds:2025-02-A	2025-02-18		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-02-A:DT	ZNP:Birds:2025-02-A:DT	ZNP:Birds:2025-02-A	2025-02-18		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-02-B:FT	ZNP:Birds:2025-02-B:FT	ZNP:Birds:2025-02-B	2025-02-26		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-02-B:DT	ZNP:Birds:2025-02-B:DT	ZNP:Birds:2025-02-B	2025-02-26		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-03-A:FT	ZNP:Birds:2025-03-A:FT	ZNP:Birds:2025-03-A	2025-03-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-03-A:DT	ZNP:Birds:2025-03-A:DT	ZNP:Birds:2025-03-A	2025-03-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-03-B:FT	ZNP:Birds:2025-03-B:FT	ZNP:Birds:2025-03-B	2025-03-26		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-03-B:DT	ZNP:Birds:2025-03-B:DT	ZNP:Birds:2025-03-B	2025-03-26		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-04-A:FT	ZNP:Birds:2025-04-A:FT	ZNP:Birds:2025-04-A	2025-04-09		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-04-A:DT	ZNP:Birds:2025-04-A:DT	ZNP:Birds:2025-04-A	2025-04-09		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-04-B:FT	ZNP:Birds:2025-04-B:FT	ZNP:Birds:2025-04-B	2025-04-29		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-04-B:DT	ZNP:Birds:2025-04-B:DT	ZNP:Birds:2025-04-B	2025-04-29		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-05-A:FT	ZNP:Birds:2025-05-A:FT	ZNP:Birds:2025-05-A	2025-05-09		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-05-A:DT	ZNP:Birds:2025-05-A:DT	ZNP:Birds:2025-05-A	2025-05-09		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-05-B:FT	ZNP:Birds:2025-05-B:FT	ZNP:Birds:2025-05-B	2025-05-28		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-05-B:DT	ZNP:Birds:2025-05-B:DT	ZNP:Birds:2025-05-B	2025-05-28		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-06-A:FT	ZNP:Birds:2025-06-A:FT	ZNP:Birds:2025-06-A	2025-06-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-06-A:DT	ZNP:Birds:2025-06-A:DT	ZNP:Birds:2025-06-A	2025-06-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-06-B:FT	ZNP:Birds:2025-06-B:FT	ZNP:Birds:2025-06-B	2025-06-25		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-06-B:DT	ZNP:Birds:2025-06-B:DT	ZNP:Birds:2025-06-B	2025-06-25		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-07-A:FT	ZNP:Birds:2025-07-A:FT	ZNP:Birds:2025-07-A	2025-07-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-07-A:DT	ZNP:Birds:2025-07-A:DT	ZNP:Birds:2025-07-A	2025-07-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-07-B:FT	ZNP:Birds:2025-07-B:FT	ZNP:Birds:2025-07-B	2025-07-29		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-07-B:DT	ZNP:Birds:2025-07-B:DT	ZNP:Birds:2025-07-B	2025-07-29		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-08-A:FT	ZNP:Birds:2025-08-A:FT	ZNP:Birds:2025-08-A	2025-08-12		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-08-A:DT	ZNP:Birds:2025-08-A:DT	ZNP:Birds:2025-08-A	2025-08-12		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-08-B:FT	ZNP:Birds:2025-08-B:FT	ZNP:Birds:2025-08-B	2025-08-29		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-08-B:DT	ZNP:Birds:2025-08-B:DT	ZNP:Birds:2025-08-B	2025-08-29		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-09-A:FT	ZNP:Birds:2025-09-A:FT	ZNP:Birds:2025-09-A	2025-09-14		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-09-A:DT	ZNP:Birds:2025-09-A:DT	ZNP:Birds:2025-09-A	2025-09-14		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-09-B:FT	ZNP:Birds:2025-09-B:FT	ZNP:Birds:2025-09-B	2025-09-30		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-09-B:DT	ZNP:Birds:2025-09-B:DT	ZNP:Birds:2025-09-B	2025-09-30		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-10-A:FT	ZNP:Birds:2025-10-A:FT	ZNP:Birds:2025-10-A	2025-10-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-10-A:DT	ZNP:Birds:2025-10-A:DT	ZNP:Birds:2025-10-A	2025-10-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-10-B:FT	ZNP:Birds:2025-10-B:FT	ZNP:Birds:2025-10-B	2025-10-28		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-10-B:DT	ZNP:Birds:2025-10-B:DT	ZNP:Birds:2025-10-B	2025-10-28		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-11-A:FT	ZNP:Birds:2025-11-A:FT	ZNP:Birds:2025-11-A	2025-11-07		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-11-A:DT	ZNP:Birds:2025-11-A:DT	ZNP:Birds:2025-11-A	2025-11-07		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-11-B:FT	ZNP:Birds:2025-11-B:FT	ZNP:Birds:2025-11-B	2025-11-28		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-11-B:DT	ZNP:Birds:2025-11-B:DT	ZNP:Birds:2025-11-B	2025-11-28		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-12-A:FT	ZNP:Birds:2025-12-A:FT	ZNP:Birds:2025-12-A	2025-12-10		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-12-A:DT	ZNP:Birds:2025-12-A:DT	ZNP:Birds:2025-12-A	2025-12-10		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-12-B:FT	ZNP:Birds:2025-12-B:FT	ZNP:Birds:2025-12-B	2025-12-22		Transect count			FT	BE	Zwin Nature Park, Forest Trail	51.3595	3.345	WGS84	150
+ZNP:Birds:2025-12-B:DT	ZNP:Birds:2025-12-B:DT	ZNP:Birds:2025-12-B	2025-12-22		Transect count			DT	BE	Zwin Nature Park, Dyke Trail	51.3602	3.3503	WGS84	175
+ZNP:Birds:2025-01-A:FTP	ZNP:Birds:2025-01-A:FTP	ZNP:Birds:2025-01-A	2025-01-03	09:35/09:40	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-01-A:DTP	ZNP:Birds:2025-01-A:DTP	ZNP:Birds:2025-01-A	2025-01-03	10:20/10:25	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-01-B:FTP	ZNP:Birds:2025-01-B:FTP	ZNP:Birds:2025-01-B	2025-01-15	09:50/09:55	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-01-B:DTP	ZNP:Birds:2025-01-B:DTP	ZNP:Birds:2025-01-B	2025-01-15	10:35/10:40	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-02-A:FTP	ZNP:Birds:2025-02-A:FTP	ZNP:Birds:2025-02-A	2025-02-18	09:10/09:15	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-02-A:DTP	ZNP:Birds:2025-02-A:DTP	ZNP:Birds:2025-02-A	2025-02-18	09:50/09:55	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-02-B:FTP	ZNP:Birds:2025-02-B:FTP	ZNP:Birds:2025-02-B	2025-02-26	09:05/09:10	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-02-B:DTP	ZNP:Birds:2025-02-B:DTP	ZNP:Birds:2025-02-B	2025-02-26	09:45/09:50	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-03-A:FTP	ZNP:Birds:2025-03-A:FTP	ZNP:Birds:2025-03-A	2025-03-10	10:15/10:20	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-03-A:DTP	ZNP:Birds:2025-03-A:DTP	ZNP:Birds:2025-03-A	2025-03-10	10:55/11:00	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-03-B:FTP	ZNP:Birds:2025-03-B:FTP	ZNP:Birds:2025-03-B	2025-03-26	08:45/08:50	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-03-B:DTP	ZNP:Birds:2025-03-B:DTP	ZNP:Birds:2025-03-B	2025-03-26	09:35/09:40	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-04-A:FTP	ZNP:Birds:2025-04-A:FTP	ZNP:Birds:2025-04-A	2025-04-09	09:00/09:05	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-04-A:DTP	ZNP:Birds:2025-04-A:DTP	ZNP:Birds:2025-04-A	2025-04-09	09:55/10:00	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-04-B:FTP	ZNP:Birds:2025-04-B:FTP	ZNP:Birds:2025-04-B	2025-04-29	08:35/08:40	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-04-B:DTP	ZNP:Birds:2025-04-B:DTP	ZNP:Birds:2025-04-B	2025-04-29	10:00/10:05	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-05-A:FTP	ZNP:Birds:2025-05-A:FTP	ZNP:Birds:2025-05-A	2025-05-09	07:45/07:50	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-05-A:DTP	ZNP:Birds:2025-05-A:DTP	ZNP:Birds:2025-05-A	2025-05-09	08:30/08:35	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-05-B:FTP	ZNP:Birds:2025-05-B:FTP	ZNP:Birds:2025-05-B	2025-05-28	08:50/08:55	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-05-B:DTP	ZNP:Birds:2025-05-B:DTP	ZNP:Birds:2025-05-B	2025-05-28	09:40/09:45	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-06-A:FTP	ZNP:Birds:2025-06-A:FTP	ZNP:Birds:2025-06-A	2025-06-10	08:00/08:05	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-06-A:DTP	ZNP:Birds:2025-06-A:DTP	ZNP:Birds:2025-06-A	2025-06-10	09:00/09:05	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-06-B:FTP	ZNP:Birds:2025-06-B:FTP	ZNP:Birds:2025-06-B	2025-06-25	08:15/08:20	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-06-B:DTP	ZNP:Birds:2025-06-B:DTP	ZNP:Birds:2025-06-B	2025-06-25	09:00/09:05	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-07-A:FTP	ZNP:Birds:2025-07-A:FTP	ZNP:Birds:2025-07-A	2025-07-10	08:30/08:35	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-07-A:DTP	ZNP:Birds:2025-07-A:DTP	ZNP:Birds:2025-07-A	2025-07-10	09:50/09:55	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-07-B:FTP	ZNP:Birds:2025-07-B:FTP	ZNP:Birds:2025-07-B	2025-07-29	08:20/08:25	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-07-B:DTP	ZNP:Birds:2025-07-B:DTP	ZNP:Birds:2025-07-B	2025-07-29	09:30/09:35	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-08-A:FTP	ZNP:Birds:2025-08-A:FTP	ZNP:Birds:2025-08-A	2025-08-12	08:00/08:05	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-08-A:DTP	ZNP:Birds:2025-08-A:DTP	ZNP:Birds:2025-08-A	2025-08-12	09:05/09:10	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-08-B:FTP	ZNP:Birds:2025-08-B:FTP	ZNP:Birds:2025-08-B	2025-08-29	08:45/08:50	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-08-B:DTP	ZNP:Birds:2025-08-B:DTP	ZNP:Birds:2025-08-B	2025-08-29	09:35/09:40	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-09-A:FTP	ZNP:Birds:2025-09-A:FTP	ZNP:Birds:2025-09-A	2025-09-14	08:00/08:05	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-09-A:DTP	ZNP:Birds:2025-09-A:DTP	ZNP:Birds:2025-09-A	2025-09-14	08:55/09:00	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-09-B:FTP	ZNP:Birds:2025-09-B:FTP	ZNP:Birds:2025-09-B	2025-09-30	09:40/09:45	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-09-B:DTP	ZNP:Birds:2025-09-B:DTP	ZNP:Birds:2025-09-B	2025-09-30	10:25/10:30	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-10-A:FTP	ZNP:Birds:2025-10-A:FTP	ZNP:Birds:2025-10-A	2025-10-07	08:55/09:00	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-10-A:DTP	ZNP:Birds:2025-10-A:DTP	ZNP:Birds:2025-10-A	2025-10-07	09:30/09:35	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-10-B:FTP	ZNP:Birds:2025-10-B:FTP	ZNP:Birds:2025-10-B	2025-10-28	08:40/08:45	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-10-B:DTP	ZNP:Birds:2025-10-B:DTP	ZNP:Birds:2025-10-B	2025-10-28	09:40/09:45	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-11-A:FTP	ZNP:Birds:2025-11-A:FTP	ZNP:Birds:2025-11-A	2025-11-07	08:45/08:50	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-11-A:DTP	ZNP:Birds:2025-11-A:DTP	ZNP:Birds:2025-11-A	2025-11-07	09:45/09:50	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-11-B:FTP	ZNP:Birds:2025-11-B:FTP	ZNP:Birds:2025-11-B	2025-11-28	10:50/10:55	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-11-B:DTP	ZNP:Birds:2025-11-B:DTP	ZNP:Birds:2025-11-B	2025-11-28	12:00/12:05	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-12-A:FTP	ZNP:Birds:2025-12-A:FTP	ZNP:Birds:2025-12-A	2025-12-10	09:15/09:20	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-12-A:DTP	ZNP:Birds:2025-12-A:DTP	ZNP:Birds:2025-12-A	2025-12-10	10:20/10:25	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100
+ZNP:Birds:2025-12-B:FTP	ZNP:Birds:2025-12-B:FTP	ZNP:Birds:2025-12-B	2025-12-22	09:45/09:50	Point count	5	minute	FTP	BE	Zwin Nature Park, Forest Trail Point	51.3594	3.3448	WGS84	100
+ZNP:Birds:2025-12-B:DTP	ZNP:Birds:2025-12-B:DTP	ZNP:Birds:2025-12-B	2025-12-22	10:45/10:50	Point count	5	minute	DTP	BE	Zwin Nature Park, Dyke Trail Point	51.3597	3.3505	WGS84	100

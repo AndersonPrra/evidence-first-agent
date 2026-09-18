@@ -1,0 +1,193 @@
+<eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://rs.gbif.org/schema/eml-gbif-profile/1.3/eml.xsd"
+         packageId="dde71542-ad2d-4ec7-a93c-eb18bc0f432b/v1.11" system="http://gbif.org" scope="system"
+         xml:lang="eng">
+    <dataset>
+        <alternateIdentifier>dde71542-ad2d-4ec7-a93c-eb18bc0f432b</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversity.be/resource?r=zwin-park-birds-observations</alternateIdentifier>
+        <title xml:lang="eng">Bird census counts at the Zwin Nature Park</title>
+        <creator>
+            <individualName>
+                <givenName>Wouter</givenName>
+                <surName>Faveyts</surName>
+            </individualName>
+            <organizationName>Zwin Natuur Park</organizationName>
+            <positionName>Scientific collaborator</positionName>
+            <address>
+                <administrativeArea>West Flanders</administrativeArea>
+                <country>BE</country>
+            </address>
+            <electronicMailAddress>wouter.faveyts@west-vlaanderen.be</electronicMailAddress>
+            <onlineUrl>https://www.zwin.be/</onlineUrl>
+        </creator>
+        <creator>
+            <individualName>
+                <givenName>Stijn</givenName>
+                <surName>Cooleman</surName>
+            </individualName>
+            <organizationName>Belgian Biodiversity Platform</organizationName>
+            <positionName>Biodiversity Data Officer</positionName>
+            <address>
+                <country>BE</country>
+            </address>
+            <electronicMailAddress>s.cooleman@biodiversity.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-3029-0451</userId>
+        </creator>
+        <metadataProvider>
+            <individualName>
+                <givenName>Wouter</givenName>
+                <surName>Faveyts</surName>
+            </individualName>
+            <organizationName>Zwin Natuur Park</organizationName>
+            <positionName>Scientific collaborator</positionName>
+            <address>
+                <administrativeArea>West Flanders</administrativeArea>
+                <country>BE</country>
+            </address>
+            <electronicMailAddress>wouter.faveyts@west-vlaanderen.be</electronicMailAddress>
+            <onlineUrl>https://www.zwin.be/</onlineUrl>
+        </metadataProvider>
+        <metadataProvider>
+            <individualName>
+                <givenName>Stijn</givenName>
+                <surName>Cooleman</surName>
+            </individualName>
+            <organizationName>Belgian Biodiversity Platform</organizationName>
+            <positionName>Biodiversity Data Officer</positionName>
+            <address>
+                <country>BE</country>
+            </address>
+            <electronicMailAddress>s.cooleman@biodiversity.be</electronicMailAddress>
+            <userId directory="https://orcid.org/">0000-0003-3029-0451</userId>
+        </metadataProvider>
+        <pubDate>
+            2026-08-03
+        </pubDate>
+        <language>eng</language>
+        <abstract>
+            <para>This census dataset contains occurrence data on birds observed and counted in a coastal dune zone of the Zwin Nature Park (ZNP) at Knokke-Heist in West Flanders, Belgium. The data were collected in a standardised way since April 2018 at fixed localities within the ZNP’s provincial domain. This census area is situated between the ‘Zwin Plain’ and ‘Zwin dunes and polders’. All these Zwin subareas are situated within the European Natura 2000 network (particularly protected under both the Birds Directive and the Habitats Directive) and the global Ramsar Convention (protecting Wetlands of International Importance).</para>
+<para>This dataset is published as a standardised Darwin Core Archive and includes for each sampling event a parentEventID, grouping eventIDs per locality and event date, according to the sampling protocol, with sample size and unit, event time (if registered), the country code, longitude and latitude with geodetic datum and coordinate uncertainty (in the event core), and for each occurrence, an occurrenceID, the scientific name, Dutch vernacular name, taxon rank, occurrence status (absent or present), the number of recorded individuals (if counted) or occurrence remarks, and the identifiedBy term for the field observer’s name, beside the interlinked eventID (in the occurrence extension).</para>
+<para>Additional Ecological Inventories vocabulary includes siteCount, siteNestingDescription, samplingEffort and other terms (in the Humboldt extension) to report detailed information about the field observation census protocol. The Humboldt extension is not yet indexed but those eco terms are retrievable in DwC-A download of this dataset.</para>
+<para>The data wrangling to create these Darwin Core files (core and extensions), is based on R coding, compiled in Markdown and shared on <ulink url="https://github.com/BelgianBiodiversityPlatform/data-publication-bbpf/blob/main/datasets/znp-birds-events/src/dwc_mapping.Rmd"><citetitle>this github page</citetitle></ulink> <ulink url="https://doi.org/10.5281/zenodo.20345721"><citetitle>(doi.org/10.5281/zenodo.20345721)</citetitle></ulink>.</para>
+<para>We have released this dataset to the public domain under a Creative Commons Attribution (CC-BY 4.0) implying that users of data make proper reference to this dataset.</para>
+        </abstract>
+        <keywordSet>
+            <keyword>Samplingevent</keyword>
+            <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Observation</keyword>
+            <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+            <keyword>Birds</keyword>
+            <keyword>Census</keyword>
+            <keyword>Natura2000</keyword>
+            <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <intellectualRights>
+            <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY 4.0) License</citetitle></ulink>.</para>
+        </intellectualRights>
+        <licensed>
+            <licenseName>Creative Commons Attribution 4.0 International</licenseName>
+            <url>https://spdx.org/licenses/CC-BY-4.0.html</url>
+            <identifier>CC-BY-4.0</identifier>
+        </licensed>
+        <coverage>
+            <geographicCoverage>
+                <geographicDescription>The provincial domain of the Zwin Nature Park (ZNP) is located in the northernmost corner of West Flanders along the Belgian coastline fronting the North Sea. The adjacent Zwin Plain includes the border with the Netherlands. Biologically, the avifauna in this European part typically belongs to the Western Palaearctic Region.</geographicDescription>
+                <boundingCoordinates>
+                    <westBoundingCoordinate>3.343</westBoundingCoordinate>
+                    <eastBoundingCoordinate>3.353</eastBoundingCoordinate>
+                    <northBoundingCoordinate>51.362</northBoundingCoordinate>
+                    <southBoundingCoordinate>51.3575</southBoundingCoordinate>
+                </boundingCoordinates>
+            </geographicCoverage>
+            <temporalCoverage>
+                <rangeOfDates>
+                    <beginDate>
+                        <calendarDate>2018-04-10</calendarDate>
+                    </beginDate>
+                    <endDate>
+                        <calendarDate>2025-12-22</calendarDate>
+                    </endDate>
+                </rangeOfDates>
+            </temporalCoverage>
+            <taxonomicCoverage>
+                <generalTaxonomicCoverage>The target taxonomic scope is focusing on the entire class Aves, comprising all the birds observed and identified since the initial census event in April 2018 in the ZNP’s provincial domain. This dataset includes 160 taxa (i.e. 158 bird species, beside one subspecies and two domestic forms).</generalTaxonomicCoverage>
+                <taxonomicClassification>
+                    <taxonRankName>class</taxonRankName>
+                    <taxonRankValue>Aves</taxonRankValue>
+                </taxonomicClassification>
+            </taxonomicCoverage>
+        </coverage>
+        <maintenance>
+            <description>
+                <para></para>
+            </description>
+            <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+        </maintenance>
+        <contact>
+            <individualName>
+                <givenName>Wouter</givenName>
+                <surName>Faveyts</surName>
+            </individualName>
+            <organizationName>Zwin Natuur Park</organizationName>
+            <positionName>Scientific collaborator</positionName>
+            <address>
+                <administrativeArea>West Flanders</administrativeArea>
+                <country>BE</country>
+            </address>
+            <electronicMailAddress>wouter.faveyts@west-vlaanderen.be</electronicMailAddress>
+            <onlineUrl>https://www.zwin.be/</onlineUrl>
+        </contact>
+        <methods>
+            <methodStep>
+                <description>
+                    <para>All these observation data have consistently been counted by Wouter Faveyts, so far, in the field at the Zwin Nature Park. In Excel sheets per locality, the data are collected, including summed numbers per taxon and per date. A brief description of the observation method is also provided.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Based on those Excel sheets, Darwin Core data files are created largely through data wrangling in R, uploaded and documented with metadata in the IPT of the Belgian Biodiversity Platform by Stijn Cooleman.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>The dataset is published and registered with GBIF.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Within the Zwin Nature Park&apos;s provincial domain, all observed birds are counted at five fixed localities on the same morning, maximum twice per month, when wheather conditions are (sub)optimal to observe birds (i.e. not too windy/rainy). Those fixed localities are three transects and two points: 
+* The Inner Trail (IT) is the longest route through dune grassland and scrub along ponds with wetland vegetation in the core zone of the ZNP. The two other trails are shorter transects, namely the  Forest Trail (FT) in the western, forested dune zone of the ZNP, and the Dyke Trail (DT) in the northeastern, forested, inner dune edge of the ZNP. 
+* The two points are each situated along a different short transect: respectively the Forest Trail Point (FTP) and the Dyke Trail Point (DTP). 
+Birds are also regularly censused in the adjacent Zwin Plain, Zwin Extension and Kleyne Vlakte of the Zwin Nature Reserve (ZNR) according to a slightly different protocol: those birds counts are largely published in [that ZNR dataset](https://www.gbif.org/dataset/8db58232-363c-4396-9c99-6fb70c1adbc3). Besides, for extended information about breeding bird inventories in the Zwin area, see annual reports, such as the Zwin Nature report 2020 (Zwin Natuur Park 2021). </para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>A standarised observation protocol: all individuals are counted of all birds (seen or heard) from the two point localities and along the two short transects. 
+
+In contrary, along the Inner Trail, all individuals of most bird species (seen or heard) are counted. From 2018 to 2024, not all individuals were counted for five very common species: Common Wood Pigeon &lt;i&gt;Columba palumbus&lt;/i&gt;,  Great Tit &lt;i&gt;Parus major&lt;/i&gt;, Eurasian Blue Tit &lt;i&gt;Cyanistes caeruleus&lt;/i&gt;,  Carrion Crow &lt;i&gt;Corvus corone&lt;/i&gt; and Eurasian Wren &lt;i&gt;Troglodytes troglodytes&lt;/i&gt;. Besides, birds only flying high over the ZNP, seen or heard from along the Inner Trail, are noted as &apos;flying over&apos; without a count: those overflying birds don&apos;t make use of the park, but are actually present.</para>
+                </samplingDescription>
+            </sampling>
+        </methods>
+    </dataset>
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2025-03-04T18:14:13.330+01:00</dateStamp>
+                <hierarchyLevel>dataset</hierarchyLevel>
+                <citation>Faveyts W, Cooleman S (2026). Bird census counts at the Zwin Nature Park. Version 1.11. Belgian Biodiversity Platform. Samplingevent dataset. https://ipt.biodiversity.be/resource?r=zwin-park-birds-observations&amp;v=1.11</citation>
+                <bibliography>
+                    <citation identifier="https://www.zwin.be/sites/default/files/2023-10/Beheerplan%20Zwin%20Natuur%20Park_2021.pdf">Opstaele, B., J. Jansen &amp; F. Verloove (2018). Natuurbeheerplan Provinciedomein Zwin Park. Greenspot i.o.v. Provincie West-Vlaanderen.</citation>
+                    <citation identifier="https://www.kenniswest.be/147239">Zwin Natuur Park (2021). Zwin Natuurrapport 2020. Provincie West-Vlaanderen.</citation>
+                </bibliography>
+                <dc:replaces>dde71542-ad2d-4ec7-a93c-eb18bc0f432b/v1.11.xml</dc:replaces>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+</eml:eml>
